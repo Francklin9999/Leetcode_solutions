@@ -1,6 +1,7 @@
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
         int length = temperatures.length;
+        int[] result = new int[length];
         if (length == 0) return new int[0];
         Stack<Integer> stack = new Stack<>();
         stack.push(0);
@@ -8,8 +9,10 @@ class Solution {
         for (int i = length - 2; i >= 0; i--) {
             if (temperatures[i] >= temperatures[i + 1] && stack.peek() == 0) {
                 stack.push(0);
+                result[i] = stack.peek();
             }  else if (temperatures[i] == temperatures[i + 1]) {
                 stack.push(stack.peek() + 1);
+                result[i] = stack.peek();
             } else if (temperatures[i] > temperatures[i + 1]) {
                 int j = i;
                 while (temperatures[i] >= temperatures[j + 2]) {
@@ -21,17 +24,19 @@ class Solution {
                     }
                 };
                 stack.push(counter);
+                result[i] = stack.peek();
                 counter = 2;
             } else {
                 stack.push(1);
+                result[i] = stack.peek();
             }
         }
-        int[] result = new int[length];
-        int k = 0;
-        while (!stack.isEmpty()) {
-            result[k] = stack.pop();
-            k++;
-        }
+        // int[] result = new int[length];
+        // int k = 0;
+        // while (!stack.isEmpty()) {
+        //     result[k] = stack.pop();
+        //     k++;
+        // }
         return result;
     }
 }
