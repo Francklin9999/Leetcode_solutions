@@ -27,10 +27,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -77,5 +79,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0027-remove-element/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
