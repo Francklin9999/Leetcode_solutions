@@ -13,7 +13,7 @@ class Solution {
         if (p.val < root.val && q.val < root.val) {
             root = lowestCommonAncestor(root.left, p, q);
             }
-        if (p.val > root.val && q.val > root.val) {
+        else if (p.val > root.val && q.val > root.val) {
             root = lowestCommonAncestor(root.right, p, q);
         }
         return root;
