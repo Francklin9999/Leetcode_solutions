@@ -31,12 +31,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Trie
