@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0853-car-fleet/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1046-last-stone-weight](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0853-car-fleet](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0853-car-fleet/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -166,5 +169,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0027-remove-element/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 <!---LeetCode Topics End-->
