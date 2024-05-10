@@ -1,6 +1,6 @@
 class Solution {
     public int numIslands(char[][] grid) {
-        Queue<int[]> queue = new LinkedList<>();
+        Queue<int[]> queue = new ArrayDeque<>();
         int count = 0;
         int ROWS = grid.length;
         int COLMN = grid[0].length;
