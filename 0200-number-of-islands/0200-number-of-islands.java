@@ -4,6 +4,7 @@ class Solution {
         int count = 0;
         int ROWS = grid.length;
         int COLMN = grid[0].length;
+        int[][] neighbours = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
         for (int i = 0; i < ROWS; i++){
             for (int j = 0; j < COLMN; j++) {
                 if (grid[i][j] == '0') continue;
@@ -16,12 +17,11 @@ class Solution {
                     int[] curr = queue.poll();
                     int r = curr[0];
                     int c = curr[1];
-                    int[][] neighbords = {{r + 1, c}, {r, c + 1}, {r - 1, c}, {r, c - 1}};
-                    for (int z = 0; z < 4; z++) {
-                        int newR = neighbords[z][0], newL = neighbords[z][1];
+                    for (int [] neighbour : neighbours) {
+                        int newR = r + neighbour[0], newL = c + neighbour[1];
                         if (Math.min(newR, newL) < 0 || newR == ROWS || newL == COLMN ||
                         grid[newR][newL] == '0') continue;
-                        queue.offer(neighbords[z]);
+                        queue.offer(new int[]{newR, newL});
                         grid[newR][newL] = '0';
                     }
                 }
