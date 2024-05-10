@@ -14,8 +14,7 @@ class Solution {
                 queue.add(pair);
                 while (!queue.isEmpty()) {
                         int[] curr = queue.poll();
-                        int r = curr[0];
-                        int c = curr[1];
+                        int r = curr[0], c = curr[1];
                         int[][] neighbords = {{r + 1, c}, {r, c + 1}, {r - 1, c}, {r, c - 1}};
                         for (int z = 0; z < 4; z++) {
                             int newR = neighbords[z][0], newL = neighbords[z][1];
