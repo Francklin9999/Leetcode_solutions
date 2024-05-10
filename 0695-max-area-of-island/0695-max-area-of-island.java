@@ -8,6 +8,7 @@ class Solution {
                 }
             }
         }
+        System.gc();
         return maxArea;
     }
 
