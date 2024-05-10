@@ -5,10 +5,9 @@ class Solution {
         int ROWS = grid.length;
         int COLMN = grid[0].length;
         int[][] neighbours = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
-        boolean[][] visited = new boolean[ROWS][COLMN];
         for (int i = 0; i < ROWS; i++){
             for (int j = 0; j < COLMN; j++) {
-                if (grid[i][j] == '0' || visited[i][j]) continue;
+                if (grid[i][j] == '0') continue;
                 count++;
                 int[] pair = new int[2];
                 pair[0] = i;
@@ -21,9 +20,9 @@ class Solution {
                     for (int [] neighbour : neighbours) {
                         int newR = r + neighbour[0], newL = c + neighbour[1];
                         if (Math.min(newR, newL) < 0 || newR == ROWS || newL == COLMN ||
-                        grid[newR][newL] == '0' || visited[newR][newL]) continue;
+                        grid[newR][newL] == '0') continue;
                         queue.offer(new int[]{newR, newL});
-                        visited[newR][newL] = true;
+                        grid[newR][newL] = '0';
                     }
                 }
             }
