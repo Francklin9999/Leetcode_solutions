@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1046-last-stone-weight](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
