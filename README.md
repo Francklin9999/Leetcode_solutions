@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1046-last-stone-weight](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1219-path-with-maximum-gold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 ## Backtracking
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0090-subsets-ii/) | Medium |
+| [1219-path-with-maximum-gold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [1219-path-with-maximum-gold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
