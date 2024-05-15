@@ -32,11 +32,9 @@ var addTwoNumbers = function(l1, l2) {
         };
         curr.next = next;
         curr = curr.next;
-
     };
     if (counter != 0) {
-        let next = new ListNode(counter);
-        curr.next = next;
-    }
+        curr.next = new ListNode(counter);
+    };
     return anw.next;
     };
