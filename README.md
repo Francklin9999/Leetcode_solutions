@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0200-number-of-islands](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -102,6 +103,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,12 +173,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
@@ -214,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0853-car-fleet](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0853-car-fleet/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
