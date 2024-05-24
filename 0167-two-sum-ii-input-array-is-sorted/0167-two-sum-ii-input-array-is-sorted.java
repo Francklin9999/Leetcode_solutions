@@ -1,21 +1,17 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        if (numbers.length == 0) return new int[0];
-        int i = 0;
-        int j = numbers.length - 1;
-        int sum;
-        while (i <= j) {
-            sum = numbers[i] + numbers[j];
-            if (sum == target) return new int[] {i + 1, j + 1};
-            if (sum < target) {
-                i++;
-                continue;
-            }
-            if (sum > target) {
-                j--;
-                continue;
+        int l = 0;
+        int r = numbers.length - 1;
+
+        while ( l < r) {
+            if (numbers[l] + numbers[r] > target) {
+                r--;
+            } else if (numbers[l] + numbers[r] < target) {
+                l++;
+            } else {
+                return new int[] {l + 1, r + 1};
             }
         }
-    return new int[0];
+        return new int[2];
     }
 }
