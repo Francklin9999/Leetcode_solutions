@@ -21,8 +21,8 @@ class Solution {
             return false;
         }
 
-        int left = helper(root.left, 1);
-        int right = helper(root.right, 1);
+        int left = helper(root.left);
+        int right = helper(root.right);
 
         if (Math.abs(left - right) > 1) return false;
 
@@ -30,9 +30,9 @@ class Solution {
         return true;
     }
 
-    private int helper(TreeNode root, int depth) {
+    private int helper(TreeNode root) {
         if (root == null) return 0;
 
-        return 1 + Math.max(helper(root.left, depth + 1), helper(root.right, depth + 1));
+        return 1 + Math.max(helper(root.left), helper(root.right));
     }
 }
