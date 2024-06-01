@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0853-car-fleet](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0853-car-fleet/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0746-min-cost-climbing-stairs](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 ## Greedy
