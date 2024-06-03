@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0344-reverse-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0344-reverse-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
