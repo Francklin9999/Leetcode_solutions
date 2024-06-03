@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0191-number-of-1-bits/) | Easy |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0029-divide-two-integers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0070-climbing-stairs](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Matrix
