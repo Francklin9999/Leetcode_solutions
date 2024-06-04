@@ -3,7 +3,8 @@ class Solution {
         HashMap<Character, Integer> map = new HashMap<>();
         int result = 0;
 
-        for(int i = 0; i < s.length(); i++) {
+        int length = s.length();
+        for(int i = 0; i < length; i++) {
             map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) + 1);
         }
 
@@ -12,7 +13,7 @@ class Solution {
             else result += it.getValue() - (it.getValue() % 2);
         }
         
-        if(result < s.length()) result++;
+        if(result < length) result++;
     
         return result;
     }
