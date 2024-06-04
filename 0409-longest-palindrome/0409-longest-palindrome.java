@@ -1,20 +1,20 @@
 class Solution {
     public int longestPalindrome(String s) {
-        HashMap<Character, Integer> map = new HashMap<>();
+        int[] count = new int[58];
+        int length = s.length();
         int result = 0;
 
-        int length = s.length();
         for(int i = 0; i < length; i++) {
-            map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) + 1);
+            count[s.charAt(i) - 'A']++;
         }
 
-        for(Map.Entry<Character, Integer> it : map.entrySet()) {
-            if(it.getValue() % 2 == 0) result += it.getValue();
-            else result += it.getValue() - (it.getValue() % 2);
+        for(int j = 0; j < count.length; j++) {
+            if(count[j] % 2 == 0) result += count[j];
+            else result += count[j] - count[j] % 2;
         }
-        
+
         if(result < length) result++;
-    
+
         return result;
     }
 }
