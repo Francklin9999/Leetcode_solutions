@@ -13,6 +13,7 @@ class Solution {
             sequence = 1;
             while(set.contains(value + 1)) {
                 sequence++;
+                set.remove(value);
                 value++;
             }
             maxsequence = Math.max(maxsequence, sequence);
