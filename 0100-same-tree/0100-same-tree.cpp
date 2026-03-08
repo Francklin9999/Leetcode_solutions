@@ -11,28 +11,13 @@
  */
 class Solution {
 public:
-    bool isSame = true;
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        helper(p, q);
+        if (p == NULL && q == NULL) return true;
 
-        return isSame;
-    }
-
-    void helper(TreeNode* p, TreeNode* q) {
-        if (p == NULL && q == NULL) return;
-
-        if (p == NULL || q == NULL) {
-            isSame = false;
-            return;
+        if (p != NULL && q != NULL && (p->val == q->val)) {
+            return (isSameTree(p->left, q->left) && isSameTree(p->right, q->right));
         }
 
-        if (p->val != q->val) {
-            isSame = false;
-        }
-
-        helper(p->left, q->left);
-        helper(p->right, q->right);
-
-        return;
+        return false;
     }
 };
