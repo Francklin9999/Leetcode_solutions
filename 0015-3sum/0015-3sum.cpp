@@ -1,21 +1,21 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        vector<vector<int>> solution;
-
-        for(int i = 0; i < nums.size(); i++) {
-            if(i > 0 && nums[i] == nums[i-1]) continue;
-            int l = i + 1;
-            int r = nums.size() - 1;
-            while(l < r) {
-                if(nums[i] + nums[l] + nums[r] == 0) {
-                    solution.push_back({nums[i], nums[l], nums[r]});
-                    l++;
+        int l, r;
+        vector<vector<int>> results;
+        std::sort(nums.begin(), nums.end());
+        for (int i = 0; i < nums.size() - 1; ++i) {
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
+            l = i + 1;
+            r = nums.size() - 1;
+            while (l < r) {
+                int curr = nums[l] + nums[r] + nums[i];
+                if (curr == 0) {
+                    results.push_back({nums[l], nums[r], nums[i]});
                     r--;
-                    while(l < r && nums[l] == nums[l-1]) l++;
-                    while(l < r && nums[r] == nums[r+1]) r--;
-                } else if (nums[i] + nums[l] + nums[r] > 0) {
+                    l++;
+                    while(l < r && nums[l] == nums[l - 1]) l++;
+                } else if (curr > 0) {
                     r--;
                 } else {
                     l++;
@@ -23,6 +23,6 @@ public:
             }
         }
 
-        return solution;
+        return results;
     }
 };
