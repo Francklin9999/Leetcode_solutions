@@ -8,11 +8,7 @@ public:
         while (l < r) {
             max = std::max(max, std::min(height[l], height[r]) * (r - l));
             if (height[l] < height[r]) l++;
-            else if (height[l] > height[r]) r--;
-            else {
-                if (height[l + 1] < height[r - 1]) l++;
-                r--;
-            }
+            else r--;
         }
     
         return max;
