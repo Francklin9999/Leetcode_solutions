@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1219-path-with-maximum-gold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1701-average-waiting-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1701-average-waiting-time/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
