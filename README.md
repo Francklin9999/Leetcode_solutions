@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0322-coin-change](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0739-daily-temperatures/) | Medium |
