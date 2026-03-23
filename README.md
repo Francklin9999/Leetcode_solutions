@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0055-jump-game/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0079-word-search/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0200-number-of-islands/) | Medium |
