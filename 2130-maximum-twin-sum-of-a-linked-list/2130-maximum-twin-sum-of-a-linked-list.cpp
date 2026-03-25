@@ -20,25 +20,24 @@ public:
         }
 
         ListNode* prev = nullptr;
-        ListNode* curr = slow;
-        ListNode* next = slow;
+        fast = slow;
 
-        while (curr) {
-            next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
+        while (slow) {
+            fast = slow->next;
+            slow->next = prev;
+            prev = slow;
+            slow = fast;
         }
 
-        ListNode* head1 = head;
-        ListNode* head2 = prev;
+        slow = head;
+        fast = prev;
 
         int maxSum = 0;
 
-        while (head2) {
-            maxSum = std::max(maxSum, head1->val + head2->val);
-            head1 = head1->next;
-            head2 = head2->next;
+        while (fast) {
+            maxSum = std::max(maxSum, slow->val + fast->val);
+            slow = slow->next;
+            fast = fast->next;
         }
 
         return maxSum;
