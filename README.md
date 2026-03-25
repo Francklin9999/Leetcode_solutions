@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0322-coin-change](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0409-longest-palindrome](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0409-longest-palindrome/) | Easy |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
