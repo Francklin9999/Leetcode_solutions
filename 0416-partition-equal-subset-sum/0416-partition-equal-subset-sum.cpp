@@ -8,12 +8,12 @@ public:
         set.insert(0);
         int target = sum / 2;
 
-        for (int num : nums) {
+        for (int i = 0; i < nums.size(); i++) {
             unordered_set<int> temp;
             for (int val : set) {
-                if (val + num == target) return true;
+                if (val + nums[i] == target) return true;
                 temp.insert(val);
-                temp.insert(val + num);
+                temp.insert(val + nums[i]);
             }
             set = temp;
         }
