@@ -6,11 +6,12 @@ public:
 
         unordered_set<int> set;
         set.insert(0);
+        int target = sum / 2;
 
         for (int num : nums) {
             unordered_set<int> temp;
             for (int val : set) {
-                if (val + num == sum / 2) return true;
+                if (val + num == target) return true;
                 temp.insert(val);
                 temp.insert(val + num);
             }
