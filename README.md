@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1991-find-the-middle-index-in-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-path-with-maximum-gold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0682-baseball-game/) | Easy |
 | [1701-average-waiting-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1701-average-waiting-time/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
