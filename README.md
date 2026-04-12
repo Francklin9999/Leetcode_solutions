@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3151-special-array-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3151-special-array-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3467-transform-array-by-parity](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3467-transform-array-by-parity](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
+| [3467-transform-array-by-parity](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
