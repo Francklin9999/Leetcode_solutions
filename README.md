@@ -444,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0647-palindromic-substrings/) | Medium |
+| [0796-rotate-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0796-rotate-string/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0796-rotate-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0796-rotate-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
