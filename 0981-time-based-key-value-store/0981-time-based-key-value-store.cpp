@@ -5,8 +5,9 @@ public:
     }
     
     void set(string key, string value, int timestamp) {
-        if(map.contains(key)) {
-            map[key].push_back({timestamp, value});
+        auto it = map.find(key);
+        if(it != map.end()) {
+            it->second.emplace_back(timestamp, value);
         } else {
             map[key] = {pair(timestamp, value)};
         }
