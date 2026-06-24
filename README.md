@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0704-binary-search/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0155-min-stack/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0846-hand-of-straights](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Heap (Priority Queue)
@@ -446,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0796-rotate-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0796-rotate-string/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [3110-score-of-a-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3110-score-of-a-string/) | Easy |
