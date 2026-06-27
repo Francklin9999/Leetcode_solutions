@@ -454,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0796-rotate-string/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [3110-score-of-a-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3110-score-of-a-string/) | Easy |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0786-k-th-smallest-prime-fraction](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
