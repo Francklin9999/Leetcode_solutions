@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0079-word-search/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -504,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0088-merge-sorted-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0143-reorder-list/) | Medium |
