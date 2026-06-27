@@ -1,9 +1,9 @@
 class Solution {
 public:
     void reverseString(vector<char>& s) {
-        int l = 0;
-        int r = s.size() - 1;
-        int tmp;
+        size_t l{0uz};
+        size_t r{s.size() - 1};
+        char tmp;
 
         while (l < r) {
             tmp = s[l];
