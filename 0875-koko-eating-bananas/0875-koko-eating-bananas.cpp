@@ -4,12 +4,11 @@ public:
         int max = *std::max_element(piles.begin(), piles.end());
         int min{max};
 
-        int l{};
+        int l{1};
         int r{max};
 
         while (l <= r) {
             int mid = l + (r - l) / 2;
-            cout << mid;
 
             if (helper(piles, h, mid)) {
                 min = mid;
