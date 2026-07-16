@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1046-last-stone-weight](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0494-target-sum/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0978-longest-turbulent-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
