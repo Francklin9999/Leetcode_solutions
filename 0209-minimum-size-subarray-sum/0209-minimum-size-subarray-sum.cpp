@@ -1,22 +1,22 @@
 class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
-        int minL = INT_MAX;
-        int l = 0;
-        int r = 0;
-        int currCount = 0;
+        int l{}, r{};
+        int currSum{};
+        int min = nums.size();
+        bool good{};
 
         while (r < nums.size()) {
-            currCount += nums[r];
-            while (currCount >= target) {
-                minL = std::min(minL, r - l + 1);
-                currCount -= nums[l];
+            currSum += nums[r];
+            while (currSum >= target) {
+                good = true;
+                min = std::min(min, r - l + 1);
+                currSum -= nums[l];
                 l++;
             }
-
             r++;
         }
 
-        return minL == INT_MAX ? 0 : minL;
+        return good ? min : 0;
     }
 };
