@@ -12,11 +12,11 @@ public:
             res.push_back(curr);
             return;
         }
-        if (idx > n) return;
 
-        curr.push_back(idx);
-        dfs(idx + 1, n, k, curr, res);
-        curr.pop_back();
-        dfs(idx + 1, n, k, curr, res);
+        for (auto i{idx}; i <= n; ++i) {
+            curr.push_back(i);
+            dfs(i + 1, n, k, curr, res);
+            curr.pop_back();
+        }
     }
 };
