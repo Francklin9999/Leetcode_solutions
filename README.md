@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0212-word-search-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0212-word-search-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0494-target-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0494-target-sum/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Binary Search
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
@@ -496,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
@@ -549,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0212-word-search-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
