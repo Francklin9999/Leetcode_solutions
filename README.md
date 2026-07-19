@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0046-permutations/) | Medium |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -493,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
