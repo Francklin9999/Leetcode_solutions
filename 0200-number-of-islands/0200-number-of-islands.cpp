@@ -1,35 +1,35 @@
 class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
-        int ROWS = grid.size();
-        int COLS = grid[0].size();
-
-        vector<vector<int>> visited(ROWS, vector<int>(COLS));
         queue<pair<int, int>> queue;
-        vector<vector<int>> ajd = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
+        vector<vector<int>> nei = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
+        int total{};
+        size_t m = grid.size();
+        size_t n = grid[0].size();
 
-        int count = 0;
+        for (auto i = 0uz; i < m; ++i) {
+            for (auto j = 0uz; j < n; ++j) {
+                if (grid[i][j] == '1') {
+                    grid[i][j] = '0';
+                    total++;
+                    queue.push(pair<int, int>(i, j));
+                    while (!queue.empty()) {
+                        auto curr = queue.front();
+                        queue.pop();
+                        for (auto e : nei) {
+                            auto x = curr.first + e[0];
+                            auto y = curr.second + e[1];
 
-        for (int i = 0; i < ROWS; ++i) {
-            for (int j = 0; j < COLS; ++j) {
-                if (grid[i][j] == '0' || visited[i][j] == 1) continue;
-                queue.push(pair(i, j));
-                while (!queue.empty()) {
-                    auto curr = queue.front();
-                    queue.pop();
-                    for (int k = 0; k < ajd.size(); ++k) {
-                        int l = curr.first + ajd[k][0];
-                        int r = curr.second + ajd[k][1];
-
-                        if (l >= 0 && l < ROWS && r >= 0 && r < COLS && grid[l][r] == '1' && visited[l][r] != 1) {
-                            visited[l][r] = 1;
-                            queue.push(pair(l, r));
+                            if (x < 0 || x >= m || y < 0 || y >= n || grid[x][y] != '1') continue;
+                            grid[x][y] = '0';
+                            queue.push(pair<int, int>(x, y));
                         }
                     }
                 }
-                ++count;
             }
         }
-        return count;
+
+
+        return total;
     }
 };
