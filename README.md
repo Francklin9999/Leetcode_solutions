@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-path-with-maximum-gold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1375-number-of-times-binary-string-is-prefix-aligned/) | Medium |
 | [1701-average-waiting-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1701-average-waiting-time/) | Medium |
 | [1861-rotating-the-box](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
