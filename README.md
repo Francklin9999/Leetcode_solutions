@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0994-rotting-oranges](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -441,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 ## Quickselect
@@ -471,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 ## Sorting
