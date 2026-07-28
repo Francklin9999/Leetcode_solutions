@@ -509,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -557,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [3110-score-of-a-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -652,4 +654,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0207-course-schedule/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
