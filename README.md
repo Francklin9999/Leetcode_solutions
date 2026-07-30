@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-score-after-flipping-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 ## Hash Function
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -568,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
