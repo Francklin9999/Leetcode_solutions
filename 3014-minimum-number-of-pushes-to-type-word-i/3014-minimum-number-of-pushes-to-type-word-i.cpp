@@ -1,23 +1,18 @@
 class Solution {
+int arr[27] {1, 1, 2, 3, 4, 5, 6, 7, 8, 10, 12, 14, 16, 18, 20, 22, 24, 27, 30, 33, 36, 39, 42, 45, 48, 52, 56};
 public:
     int minimumPushes(string word) {
-        unordered_set<char> set;
-        int total{};
+        int count[26]{};
 
         for (auto i = 0uz; i < word.size(); i++) {
-            set.insert(word[i]);
+            count[word.at(i) - 'a'] = 1;
         }
 
-        int k = set.size();
-        int loop = 1;
-        
-        while (k > 0) {
-            int take = min(k, 8);
-            total += take * loop;
-            k -= take;
-            ++loop;
-        } 
+        int total{};
+        for (auto i = 0; i < 26; i++) {
+            total += count[i] & 1;
+        }
 
-        return total;
+        return arr[total];
     }
 };
