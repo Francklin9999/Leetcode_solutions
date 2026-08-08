@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0853-car-fleet/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0861-score-after-flipping-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [0874-walking-robot-simulation](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0763-partition-labels](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0846-hand-of-straights/) | Medium |
+| [0874-walking-robot-simulation](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -488,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0682-baseball-game/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1701-average-waiting-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1701-average-waiting-time/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
