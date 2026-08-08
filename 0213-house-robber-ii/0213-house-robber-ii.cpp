@@ -1,29 +1,24 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        vector<int> rob1(nums.begin() + 1, nums.end());
-        vector<int> rob2(nums.begin(), nums.end() - 1);
-        return (
-            std::max(nums[0],
-                std::max(
-                    helper(rob1),
-                    helper(rob2)
-                )
-            )
+        if (nums.size() == 1) {
+            return std::max(nums[0], 0);
+        }
+        return std::max(
+            helper(nums, 0, nums.size() - 1),
+            helper(nums, 1, nums.size())
         );
     }
 
-    int helper(vector<int>& nums) {
-        int prev0 = 0;
-        int prev1 = 0;
-        int temp;
+    int helper(vector<int>& nums, int i, int j) {
+        int prev1{}, prev2{};
 
-        for (int i = 0; i < nums.size(); ++i) {
-            temp = std::max(prev0 + nums[i], prev1);
-            prev0 = prev1;
-            prev1 = temp;
+        for (auto k = i; k < j; ++k) {
+            int tmp = prev1;
+            prev1 = std::max(prev1, prev2 + nums[k]);
+            prev2 = tmp;
         }
 
-        return std::max(prev0, prev1);
+        return std::max(prev1, prev2);
     }
 };
