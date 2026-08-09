@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0786-k-th-smallest-prime-fraction](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
