@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -718,4 +721,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
