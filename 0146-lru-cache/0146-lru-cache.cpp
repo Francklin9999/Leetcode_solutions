@@ -4,59 +4,67 @@ struct Node {
     int val;
     Node* next;
     Node* prev;
-    Node (int _key, int _val) : key(_key), val(_val), next(nullptr), prev(nullptr) {}
+    Node(int _key, int _val) : key(_key), val(_val), next{nullptr}, prev(nullptr) { }
 };
+
 int capacity;
 int size;
+
 unordered_map<int, Node*> map;
-Node* head{};
-Node* last{};
+
+Node* first;
+Node* last;
+
+void addNode(Node* node) {
+    last->prev->next = node;
+    node->prev = last->prev;
+    node->next = last;
+    last->prev = node;
+}
+
+void removeNode(Node* node) {
+    node->prev->next = node->next;
+    node->next->prev = node->prev;
+}
+
 public:
     LRUCache(int capacity) : capacity(capacity), size(0) {
-        auto curr = new Node(-1, -1);
-        map[-1] = curr;
-        head = curr;
-        last = curr;
+        first = new Node(-1, -1);
+        last = new Node(-1, -1);
+        first->next = last;
+        last->prev = first;
     }
     
     int get(int key) {
         auto it = map.find(key);
-        if (it != map.end()) {
-            put(key, map[key]->val);
-            return map[key]->val;
-        }
-        return -1;
+        if (it == map.end()) return -1;
+
+        removeNode(it->second);
+        addNode(it->second);
+
+        return it->second->val; 
     }
     
     void put(int key, int value) {
         auto it = map.find(key);
+
         if (it != map.end()) {
-            map[key]->val = value;
+            it->second->val = value;
+            removeNode(it->second);
+            addNode(it->second);
         } else {
-            map[key] = new Node(key, value);
             size++;
+            map[key] = new Node(key, value);
+            addNode(map[key]);
+
+            if (size > capacity) {
+                auto toDelete = first->next;
+                map.erase(toDelete->key);
+                removeNode(toDelete);
+                delete toDelete;
+                size--;
+            }
         }
-        if (map[key] == last) return;
-        if (map[key]->prev) {
-            map[key]->prev->next = map[key]->next;
-        }
-        if (map[key]->next) {
-            map[key]->next->prev = map[key]->prev;
-        }
-        map[key]->prev = last;
-        last->next = map[key];
-        map[key]->next = nullptr;
-        if (size > capacity) {
-            auto n = head->next;
-            head->next = n->next;
-            if (n->next)
-                n->next->prev = head;
-            map.erase(n->key);
-            delete n;
-            size = capacity;
-        }
-        
-        last = map[key];
     }
 };
 
