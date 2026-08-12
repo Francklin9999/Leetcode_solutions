@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0268-missing-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0268-missing-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
@@ -384,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -455,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0877-stone-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -556,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
