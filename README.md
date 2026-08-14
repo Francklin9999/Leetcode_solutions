@@ -440,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Simulation
