@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0322-coin-change/) | Medium |
 | [0684-redundant-connection](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0684-redundant-connection/) | Medium |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -741,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0684-redundant-connection](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -752,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0210-course-schedule-ii/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
