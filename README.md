@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1462-course-schedule-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-distribute-coins-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1462-course-schedule-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -746,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0684-redundant-connection](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
+| [1462-course-schedule-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -756,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [1462-course-schedule-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1462-course-schedule-iv/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
