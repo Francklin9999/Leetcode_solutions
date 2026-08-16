@@ -8,7 +8,7 @@ public:
             auto t_sell = sell;
 
             buy = std::max(t_sell - prices[i], t_buy); 
-            sell = buy + prices[i];
+            sell = std::max(t_sell, t_buy + prices[i]);
         }
 
         return sell > 0 ? sell : 0;
