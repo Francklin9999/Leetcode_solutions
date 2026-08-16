@@ -408,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -562,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -641,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [0567-permutation-in-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0763-partition-labels/) | Medium |
@@ -722,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0567-permutation-in-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0763-partition-labels/) | Medium |
