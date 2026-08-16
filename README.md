@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0494-target-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0494-target-sum/) | Medium |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0198-house-robber/) | Medium |
@@ -633,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
