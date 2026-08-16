@@ -9,12 +9,6 @@ public:
 
             buy = std::max(t_sell - prices[i], t_buy); 
             sell = buy + prices[i];
-
-            t_buy = buy;
-            t_sell = sell;
-
-            buy = std::max(t_sell - prices[i], t_buy); 
-            sell = buy + prices[i];
         }
 
         return sell > 0 ? sell : 0;
