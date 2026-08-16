@@ -6,20 +6,20 @@ void helper(int j, int n, vector<vector<string>>& res, vector<string>& curr, uno
         return;
     }
 
-    string s(n - 1, '.');
+    string s(n, '.');
     for (int i = 0; i < n; ++i) {
         if (col.count(i) || pos.count(j - i) || neg.count(j + i)) continue;
         col.insert(i);
         pos.insert(j - i);
         neg.insert(j + i);
-        s.insert(i, "Q");
+        s[i] = 'Q';
         curr.push_back(s);
         helper(j + 1, n, res, curr, col, pos, neg);
         curr.pop_back();
         col.erase(i);
         pos.erase(j - i);
         neg.erase(j + i);
-        s.erase(i, 1);
+        s[i] = '.';
     }
 }
 public:
