@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -862,8 +864,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
