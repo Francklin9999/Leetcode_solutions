@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1991-find-the-middle-index-in-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Data Stream
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0861-score-after-flipping-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
@@ -442,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
