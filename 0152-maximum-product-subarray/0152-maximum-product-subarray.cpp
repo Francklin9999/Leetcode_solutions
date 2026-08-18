@@ -1,23 +1,20 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int res{nums[0]};
-        int curMin{1};
-        int curMax{1};
+        int min{nums[0]}, max{nums[0]};
+        int curr_min{nums[0]}, curr_max{nums[0]};
 
-        for (int num : nums) {
-            if (num == 0) {
-                res = std::max(0, res);
-                curMin = 1;
-                curMax = 1;
-                continue;
-            }
-            int tmp = num * curMax;
-            curMax = std::max({tmp, num * curMin, num});
-            curMin = std::min({tmp, num * curMin, num});
-            res = std::max(curMax, res);
+        for (auto i{1uz}; i < nums.size(); ++i) {
+            auto tmp_min = curr_min;
+            auto tmp_max = curr_max;
+
+            curr_min = std::min({nums[i], nums[i] * tmp_min, nums[i] * tmp_max});
+            curr_max = std::max({nums[i], nums[i] * tmp_max, nums[i] * tmp_min});
+
+            min = std::min(min, curr_min);
+            max = std::max(max, curr_max);
         }
 
-        return res;
+        return max;
     }
 };
