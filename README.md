@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2798-number-of-employees-who-met-the-target](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
@@ -447,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
