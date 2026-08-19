@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-longest-turbulent-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2320-count-number-of-ways-to-place-houses/) | Medium |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 ## Geometry
