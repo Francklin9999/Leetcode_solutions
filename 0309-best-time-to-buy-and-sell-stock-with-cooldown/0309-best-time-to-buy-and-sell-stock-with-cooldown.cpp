@@ -6,13 +6,12 @@ public:
         for (auto i{1uz}; i < prices.size(); ++i) {
             auto t_buy = buy;
             auto t_sell = sell;
-            auto t_cooldown = cooldown;
 
-            buy = std::max(t_buy, t_cooldown - prices[i]);
-            sell = prices[i] + t_buy;
-            cooldown = std::max(t_cooldown, t_sell);
+            buy = std::max(buy, cooldown - prices[i]);
+            sell = std::max(sell, t_buy + prices[i]);
+            cooldown = t_sell;
         }
-
+        
         return std::max(sell, cooldown);
     }
 };
