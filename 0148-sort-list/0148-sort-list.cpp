@@ -11,56 +11,44 @@
 class Solution {
 
 ListNode* sort(ListNode* head) {
-    if (head->next == nullptr) return head;
-    
-    int len{};
-    ListNode* curr {head};
-    while (curr != nullptr) {
-        curr = curr->next;
-        ++len;
+    if (!head || !head->next) return head;
+
+    ListNode* slow{head};
+    ListNode* fast{head->next};
+    while (fast && fast->next) {
+        slow = slow->next;
+        fast = fast->next->next;
     }
 
-    curr = head;
-    for (int i{}; i < (len / 2) - 1; ++i) {
-        curr = curr->next;
-    }
-
-    auto tmp = curr;
-    curr = curr->next;
+    auto tmp = slow;
+    slow = slow->next;
     tmp->next = nullptr;
 
     ListNode* left = sort(head);
-    ListNode* right = sort(curr);
+    ListNode* right = sort(slow);
 
     ListNode dummy(0, nullptr);
-    curr = &dummy;
+    slow = &dummy;
 
-    while (left || right) {
-        if (left && right) {
-            if (left->val < right->val) {
-                curr->next = left;
-                left = left->next; 
-            } else {
-                curr->next = right;
-                right = right->next;
-            }
-        } else if (left) {
-            curr->next = left;
-            left = left->next;
+    while (left && right) {
+        if (left->val < right->val) {
+            slow->next = left;
+            left = left->next; 
         } else {
-            curr->next = right;
+            slow->next = right;
             right = right->next;
         }
 
-        curr = curr->next;
+        slow = slow->next;
     }
+
+    if (left || right)
+        slow->next = left ? left : right;
 
     return dummy.next;
 }
 public:
     ListNode* sortList(ListNode* head) {
-        if (head == nullptr) return nullptr;
-
         return sort(head);
     }
 };
