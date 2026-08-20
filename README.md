@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0148-sort-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0191-number-of-1-bits/) | Easy |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0146-lru-cache/) | Medium |
+| [0148-sort-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -556,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -625,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -771,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
