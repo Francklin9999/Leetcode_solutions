@@ -600,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1701-average-waiting-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1701-average-waiting-time/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -668,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0853-car-fleet](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0853-car-fleet/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -707,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0796-rotate-string/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -793,6 +796,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0763-partition-labels/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
