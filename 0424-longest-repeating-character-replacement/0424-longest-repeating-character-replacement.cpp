@@ -1,21 +1,23 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        int l, r = 0;
-        int len = 0;
-        int maxL = 0;
-        int freq[26] = {0};
+        vector<int> count(26, 0);
 
-        for (; r < s.size(); r++) {
-            maxL = std::max(maxL, ++freq[s.at(r) - 'A']);
+        int l{}, r{};
+        int n = s.size();
+        int longest{1};
 
-            if (r - l + 1 - maxL > k) {
-                len = std::max(len, r - l);
-                freq[s.at(l) - 'A']--;
-                l++;
+        for (; r < n; ++r) {
+            ++count[s[r] - 'A'];
+
+            int m = *std::max_element(count.begin(), count.end());
+
+            if (r - l + 1 - m > k) {
+                longest = std::max(longest, r - l);
+                --count[s[l++] - 'A'];
             }
         }
 
-        return std::max(len, r - l);
+        return std::max(longest, r - l);
     }
 };
