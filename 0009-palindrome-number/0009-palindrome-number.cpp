@@ -12,13 +12,6 @@ public:
             cp /= 10;
         }
 
-        while (m > 0 && x > 0) {
-            if (m % 10 != x % 10) return false;
-
-            m /= 10;
-            x /= 10;
-        }
-
-        return true;
+        return m == x;
     }
 };
