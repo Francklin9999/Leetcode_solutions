@@ -17,7 +17,7 @@ bool isPossible(vector<int>& weights, int days, int w) {
 public:
     int shipWithinDays(vector<int>& weights, int days) {
         int l{*std::max_element(weights.begin(), weights.end())};
-        int r{INT_MAX};
+        int r{std::accumulate(weights.begin(), weights.end(), 0)};
 
         while (l < r) {
             int mid = l + (r - l) / 2;
