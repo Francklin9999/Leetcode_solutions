@@ -15,7 +15,7 @@ public:
             else alice += num[i] - '0';
         }
 
-        if ((count1 + count2) % 2 == 0 && 2 * (bob - alice) == 9 * (count2 - count1)) return false;
+        if ((count1 + count2) % 2 == 0 && (bob - alice) == 9 * (count2 - count1) / 2) return false;
 
         return true;
     }
