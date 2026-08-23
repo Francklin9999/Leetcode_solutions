@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0861-score-after-flipping-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [1927-sum-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1927-sum-game/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
@@ -531,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1927-sum-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1927-sum-game/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -724,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0981-time-based-key-value-store](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1927-sum-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1927-sum-game/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2451-odd-string-difference](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2451-odd-string-difference/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
@@ -858,6 +861,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0877-stone-game/) | Medium |
+| [1927-sum-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1927-sum-game/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
