@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0322-coin-change/) | Medium |
 | [0684-redundant-connection](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0322-coin-change/) | Medium |
@@ -537,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+| [0279-perfect-squares](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0877-stone-game/) | Medium |
@@ -933,11 +936,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0518-coin-change-ii/) | Medium |
 ## DP on Trees
