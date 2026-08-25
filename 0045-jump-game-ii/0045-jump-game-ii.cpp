@@ -4,15 +4,14 @@ public:
         int curr{};
         int farthest{};
         int j{};
+        int sz = nums.size() - 1;
 
-        for (auto i{0uz}; i < nums.size() - 1; ++i) {
+        for (auto i{0uz}; i < sz; ++i) {
             farthest = std::max(farthest, static_cast<int>(i) + nums[i]);
 
             if (i == curr) {
                 ++j;
                 curr = farthest;
-                farthest = 0;
-                if (curr == nums.size() - 1) return j;
             }
         }
 
