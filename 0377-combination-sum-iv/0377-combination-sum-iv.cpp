@@ -4,9 +4,9 @@ public:
         vector<uint> dp(target + 1, 0);
         dp[0] = 1;
 
-        for (int i{}; i <= target; ++i) {
+        for (int i{1}; i <= target; ++i) {
             for (auto j{0uz}; j < nums.size(); ++j) {
-                if (i - nums[j] >= 0) {
+                if (i >= nums[j]) {
                     dp[i] += dp[i - nums[j]];
                 }
             }
