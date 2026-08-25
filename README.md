@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0622-design-circular-queue](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [0622-design-circular-queue](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0705-design-hashset](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0706-design-hashmap/) | Easy |
@@ -520,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0622-design-circular-queue](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0705-design-hashset](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -873,6 +876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0622-design-circular-queue](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
