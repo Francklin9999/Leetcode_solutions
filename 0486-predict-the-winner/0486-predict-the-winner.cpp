@@ -5,14 +5,14 @@ pair<int, int> helper(vector<int>& nums, vector<vector<pair<int, int>>>& dp, int
 
     auto left = helper(nums, dp, l + 1, r);
     auto takeLeft = pair<int, int>(
-        nums[l] - left.first,
-        left.second
+        nums[l] + left.second,
+        left.first
     );
     
     auto right = helper(nums, dp, l, r - 1);
     auto takeRight = pair<int, int>(
-        nums[r] - right.first,
-        right.second
+        nums[r] + right.second,
+        right.first
     );
 
     if (takeLeft.first >= takeRight.first) {
