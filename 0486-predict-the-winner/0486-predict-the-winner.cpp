@@ -1,19 +1,34 @@
 class Solution {
-int helper(vector<int>& nums, vector<vector<int>>& dp, int l, int r) {
-    if (l > r) return 0;
-    if (dp[l][r] != INT_MIN) return dp[l][r];
+pair<int, int> helper(vector<int>& nums, vector<vector<pair<int, int>>>& dp, int l, int r) {
+    if (l > r) return make_pair(0, 0);
+    if (dp[l][r].first != INT_MIN && dp[l][r].second != INT_MIN) return dp[l][r];
 
-    dp[l][r] = std::max(
-        nums[l] - helper(nums, dp, l + 1, r),
-        nums[r] - helper(nums, dp, l, r - 1)
+    auto left = helper(nums, dp, l + 1, r);
+    auto takeLeft = pair<int, int>(
+        nums[l] - left.first,
+        left.second
     );
+    
+    auto right = helper(nums, dp, l, r - 1);
+    auto takeRight = pair<int, int>(
+        nums[r] - right.first,
+        right.second
+    );
+
+    if (takeLeft.first >= takeRight.first) {
+        dp[l][r] = takeLeft;
+    } else {
+        dp[l][r] = takeRight;
+    }
 
     return dp[l][r];
 }
 public:
     bool predictTheWinner(vector<int>& nums) {
-        vector<vector<int>> dp(nums.size(), vector<int>(nums.size(), INT_MIN));
+        vector<vector<pair<int, int>>> dp(nums.size(), vector<pair<int, int>>(nums.size(), pair<int, int>(INT_MIN, INT_MIN)));
 
-        return helper(nums, dp, 0, nums.size() - 1) >= 0;
+        auto p = helper(nums, dp, 0, nums.size() - 1); 
+
+        return  p.first >= p.second;
     }
 };
