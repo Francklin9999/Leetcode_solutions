@@ -6,20 +6,18 @@ public:
         if (sum % 2 != 0) return false;
 
         int target = sum / 2;
-        unordered_set<int> sums;
-        sums.insert(nums[nums.size() - 1]);
 
-        for (auto i{nums.size() - 1}; i-- > 0; ) {
-            unordered_set<int> tmp(sums.begin(), sums.end());
-            if (sums.count(target - nums[i])) return true;
+        vector<bool> dp(target + 1, false);
+        dp[0] = true;
 
-            for (int s : sums) {
-                tmp.insert(nums[i] + s);
+        for (int num : nums) {
+            for (int i{target}; i >= num; --i) {
+                dp[i] = dp[i] || dp[i - num];
             }
 
-            sums = tmp;
+            if (dp[target]) return true;
         }
 
-        return sums.count(target);
+        return false;
     }
 };
