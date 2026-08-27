@@ -1,19 +1,20 @@
 class Solution {
 public:
     int minSideJumps(vector<int>& obstacles) {
-        int arr[3] = {1, 0, 1};
+        int lanes[] = {1, 0, 1};
 
-        for (int obj : obstacles) {
-            if (obj) arr[obj - 1] = INT_MAX;
+        for (int obs : obstacles) {
+            if (obs) lanes[obs - 1] = INT_MAX;
 
-            int best = std::min({arr[0], arr[1], arr[2]});
+            auto best = std::min({lanes[0], lanes[1], lanes[2]});
 
-            for (auto i{0uz}; i < 3; ++i) {
-                if (i == obj - 1) continue;
-                arr[i] = std::min(arr[i], best + 1);
+            for (int i{0}; i < 3; ++i) {
+                if (obs - 1 == i) continue;
+
+                lanes[i] = std::min(lanes[i], best + 1);
             }
         }
 
-        return std::min({arr[0], arr[1], arr[2]});
+        return std::min({lanes[0], lanes[1], lanes[2]});
     }
 };
