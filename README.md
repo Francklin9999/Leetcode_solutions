@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1140-stone-game-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1406-stone-game-iii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1824-minimum-sideway-jumps](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2320-count-number-of-ways-to-place-houses/) | Medium |
