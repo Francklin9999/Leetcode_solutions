@@ -1,34 +1,25 @@
 class Solution {
-bool helper(vector<int>& nums, vector<vector<int>>& curr, int idx, int sum, int total) {
-    if (sum == total) return true;
-    if (sum > total) return false;
-    if (idx == nums.size()) return false;
-
-    if (curr[idx][sum] != - 1) return curr[idx][sum];
-
-    if (helper(
-        nums,
-        curr,
-        idx + 1,
-        sum + nums[idx],
-        total
-    )) {
-        return curr[idx][sum] = true;
-    }
-
-    return curr[idx][sum] = helper(
-        nums,
-        curr,
-        idx + 1,
-        sum,
-        total
-    );
-}
 public:
     bool canPartition(vector<int>& nums) {
         auto sum = std::accumulate(nums.begin(), nums.end(), 0);
+
         if (sum % 2 != 0) return false;
-        vector<vector<int>> curr(nums.size(), vector<int>(sum + 1, -1));
-        return helper(nums, curr, 0, 0,  sum / 2);
+
+        int target = sum / 2;
+        unordered_set<int> sums;
+        sums.insert(nums[nums.size() - 1]);
+
+        for (auto i{nums.size() - 1}; i-- > 0; ) {
+            unordered_set<int> tmp(sums.begin(), sums.end());
+            if (sums.count(target - nums[i])) return true;
+
+            for (int s : sums) {
+                tmp.insert(nums[i] + s);
+            }
+
+            sums = tmp;
+        }
+
+        return sums.count(target);
     }
 };
