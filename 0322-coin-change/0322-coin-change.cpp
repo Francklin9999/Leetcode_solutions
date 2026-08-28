@@ -4,12 +4,9 @@ public:
         vector<int> dp(amount + 1, amount + 1);
         dp[0] = 0;
 
-        for (int i{0}; i <= amount; ++i) {
-            for (int coin : coins) {
-                auto res = i - coin;
-                if (res >= 0) {
-                    dp[i] = std::min(dp[i], dp[res] + 1);
-                }
+        for (int coin : coins) {
+            for (int i{coin}; i <= amount; ++i) {
+                dp[i] = std::min(dp[i], dp[i - coin] + 1);
             }
         }
 
