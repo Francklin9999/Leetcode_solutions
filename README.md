@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0441-arranging-coins](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0704-binary-search/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
+| [0441-arranging-coins](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0877-stone-game/) | Medium |
