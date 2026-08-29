@@ -18,12 +18,12 @@ int helper(vector<int>& nums, vector<vector<int>>& dp, int l, int r) {
 }
 public:
     int maxCoins(vector<int>& nums) {
-        vector<int> cp = nums;
-        cp.insert(cp.begin(), 1);
-        cp.insert(cp.end(), 1);
+        int n = nums.size();
+        nums.insert(nums.begin(), 1);
+        nums.push_back(1);
 
-        vector<vector<int>> dp(nums.size() + 1, vector<int>(nums.size() + 1, INT_MIN));
+        vector<vector<int>> dp(n + 1, vector<int>(n + 1, INT_MIN));
 
-        return helper(cp, dp, 1, nums.size());
+        return helper(nums, dp, 1, n);
     }
 };
