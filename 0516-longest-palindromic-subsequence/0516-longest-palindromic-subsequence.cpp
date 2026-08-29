@@ -2,22 +2,23 @@ class Solution {
 public:
     int longestPalindromeSubseq(string s) {
         int n = s.size();
-        vector<vector<int>> dp(n, vector<int>(n, 0));
 
-        for (auto i{0uz}; i < s.size(); ++i) {
-            dp[i][i] = 1;
-        }
+        vector<int> prev(n, 0);
+        vector<int> curr(n, 0);
 
         for (int i{n - 1}; i >= 0; --i) {
+            curr[i] = 1;
             for (int j{i + 1}; j < n; ++j) {
                 if (s[i] == s[j]) {
-                    dp[i][j] = dp[i + 1][j - 1] + 2;
+                    curr[j] = prev[j - 1] + 2;
                 } else {
-                    dp[i][j] = std::max(dp[i + 1][j], dp[i][j - 1]);
+                    curr[j] = std::max(curr[j - 1], prev[j]);
                 }
             }
+
+            swap(curr, prev);
         }
 
-        return dp[0][n - 1];
+        return prev[n - 1];
     }
 };
