@@ -1,29 +1,27 @@
 class Solution {
 public:
     int numRescueBoats(vector<int>& people, int limit) {
-        std::sort(people.begin(), people.end());
+        sort(people.begin(), people.end());
 
-        int l{0};
-        int r = people.size() - 1;
-        int count{0};
-        int maxPeople{2};
+        int l{}, r = people.size() - 1, res{};
 
         while (l <= r) {
-            int curr{limit};
-            int currPeople{0};
-            while (r >= l && currPeople < maxPeople && curr - people[r] >= 0) {
-                curr -= people[r];
-                r--;
-                currPeople++;
+            int curr{};
+            int p{2};
+
+            while (p > 0 && r >= l && curr + people[r] <= limit) {
+                curr += people[r--];
+                --p;
             }
-            while (l < r && currPeople < maxPeople && curr - people[l] >= 0) {
-                curr -= people[l];
-                l++;
-                currPeople++;
+
+            while (p > 0 && l <= r && curr + people[l] <= limit) {
+                curr += people[l++];
+                --p;
             }
-            count++;
+
+            ++res;
         }
 
-        return count;
+        return res;
     }
 };
