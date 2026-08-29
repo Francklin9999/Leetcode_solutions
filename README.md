@@ -400,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0338-counting-bits](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0377-combination-sum-iv/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -579,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0877-stone-game/) | Medium |
@@ -931,6 +933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -1022,6 +1025,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
