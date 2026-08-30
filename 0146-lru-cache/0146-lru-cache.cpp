@@ -1,70 +1,86 @@
 class LRUCache {
 struct Node {
     int key;
-    int val;
-    Node* next;
+    int value;
     Node* prev;
-    Node(int _key, int _val) : key(_key), val(_val), next{nullptr}, prev(nullptr) { }
+    Node* next;
+    Node(int _key, int _value) : key(_key), value(_value), prev(nullptr), next(nullptr) {}
 };
 
 int capacity;
 int size;
 
-unordered_map<int, Node*> map;
-
-Node* first;
+Node* head;
 Node* last;
+unordered_map<int, Node*> cache;
 
-void addNode(Node* node) {
+void insert(int key, int value) {
+    auto node = new Node(key, value);
+
+    cache[key] = node;
+
     last->prev->next = node;
     node->prev = last->prev;
     node->next = last;
     last->prev = node;
 }
 
-void removeNode(Node* node) {
+void update(Node* node) {
     node->prev->next = node->next;
     node->next->prev = node->prev;
+
+    node->prev = last->prev;
+    last->prev->next = node;
+    node->next = last;
+    last->prev = node;
+}
+
+void remove() {
+    auto t = head->next;
+
+    t->prev->next = t->next;
+    t->next->prev = t->prev;
+
+    cache.erase(t->key);
+
+    delete t;
 }
 
 public:
     LRUCache(int capacity) : capacity(capacity), size(0) {
-        first = new Node(-1, -1);
+        head = new Node(-1, -1);
         last = new Node(-1, -1);
-        first->next = last;
-        last->prev = first;
+
+        head->next = last;
+        last->prev = head;
     }
     
     int get(int key) {
-        auto it = map.find(key);
-        if (it == map.end()) return -1;
+        auto it = cache.find(key);
 
-        removeNode(it->second);
-        addNode(it->second);
+        if (it == cache.end()) return -1;
 
-        return it->second->val; 
+        update(it->second);
+
+        return it->second->value;
     }
     
     void put(int key, int value) {
-        auto it = map.find(key);
+        auto it = cache.find(key);
 
-        if (it != map.end()) {
-            it->second->val = value;
-            removeNode(it->second);
-            addNode(it->second);
-        } else {
-            size++;
-            map[key] = new Node(key, value);
-            addNode(map[key]);
-
-            if (size > capacity) {
-                auto toDelete = first->next;
-                map.erase(toDelete->key);
-                removeNode(toDelete);
-                delete toDelete;
-                size--;
-            }
+        if (it != cache.end()) {
+            it->second->value = value;
+            update(it->second);
+            return;
         }
+
+        if (size == capacity) {
+            remove();
+            --size;
+        }
+
+        insert(key, value);
+        ++size;
     }
 };
 
