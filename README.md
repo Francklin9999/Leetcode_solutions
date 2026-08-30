@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3096-minimum-levels-to-gain-more-points](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3151-special-array-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3151-special-array-i/) | Easy |
+| [3208-alternating-groups-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3208-alternating-groups-ii/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -706,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3208-alternating-groups-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3208-alternating-groups-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
