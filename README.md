@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -511,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0846-hand-of-straights](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -697,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
