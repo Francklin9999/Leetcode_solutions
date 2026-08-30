@@ -3,15 +3,17 @@ struct TrieNode {
     char c;
     map<char, TrieNode*> trie;
     bool end{false};
-    TrieNode(char _c) : c(_c) { }
+    TrieNode(char _c) : c(_c) {}
 };
 
 void insert(const string& s) {
-    auto curr = root;
     size_t i{0};
+    auto curr = root;
+
     while (i < s.size()) {
         auto it = curr->trie.find(s[i]);
         if (it == curr->trie.end()) curr->trie[s[i]] = new TrieNode(s[i]);
+
         curr = curr->trie[s[i]];
         ++i;
     }
@@ -19,30 +21,26 @@ void insert(const string& s) {
     curr->end = true;
 }
 
-void search(const string& s, string& curr, TrieNode* node, vector<string>& res, int idx) {
-    if (idx == 0 && node->trie.find(s[0]) == node->trie.end()) return;
+void find(vector<string>& res, const string& s, size_t idx, string& str, TrieNode* head) {
     if (res.size() == 3) return;
 
-    if (idx >= 0 && idx < s.size()) {
-        auto it = node->trie.find(s[idx]);
-        if (it != node->trie.end()) {
-            curr.push_back(s[idx]);
-            search(s, curr, it->second, res, idx + 1);
-            curr.pop_back();
-            if (res.size() == 3) return;
-            return;
-        } else {
-            return;
-        }
+    if (idx != -1 && idx < s.size()) {
+        auto it = head->trie.find(s[idx]);
+        if (it == head->trie.end()) return;
+        str.push_back(s[idx]);
+        find(res, s, idx + 1, str, it->second);
+        str.pop_back();
+        return;
     }
 
-    if (node->end) res.push_back(curr);
-    if (res.size() == 3) return;
+    if (head->end) {
+        res.push_back(str);
+    }
 
-    for (auto& [key, value] : node->trie) {
-        curr.push_back(key);
-        search(s, curr, value, res, -1);
-        curr.pop_back();
+    for (auto& [key, value] : head->trie) {
+        str.push_back(key);
+        find(res, s, -1, str, value);
+        str.pop_back();
         if (res.size() == 3) return;
     }
 }
@@ -51,18 +49,19 @@ TrieNode* root;
 
 public:
     vector<vector<string>> suggestedProducts(vector<string>& products, string searchWord) {
-        vector<vector<string>> res;
         root = new TrieNode('\0');
 
-        for (auto& s : products) {
-            insert(s);
+        for (auto str : products) {
+            insert(str);
         }
 
+        vector<vector<string>> res;
+
         for (auto i{0uz}; i < searchWord.size(); ++i) {
-            string curr{""};
-            vector<string> strs;
-            search(searchWord.substr(0, i + 1), curr, root, strs, 0);
-            res.push_back(strs);
+            vector<string> str;
+            string s{};
+            find(str, searchWord.substr(0, i + 1), 0, s, root);
+            res.push_back(str);
         }
 
         return res;
