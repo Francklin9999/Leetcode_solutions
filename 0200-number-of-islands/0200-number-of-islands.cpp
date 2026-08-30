@@ -1,35 +1,33 @@
 class Solution {
+constexpr static int directions[4][2] = {{0, 1}, {1, 0}, {-1, 0}, {0, -1}};
+
 public:
     int numIslands(vector<vector<char>>& grid) {
-        queue<pair<int, int>> queue;
-        vector<vector<int>> nei = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
-        int total{};
-        size_t m = grid.size();
-        size_t n = grid[0].size();
+        int m = grid.size(), n = grid[0].size();
+        queue<pair<int, int>> q;
+        int islands{};
 
-        for (auto i = 0uz; i < m; ++i) {
-            for (auto j = 0uz; j < n; ++j) {
-                if (grid[i][j] == '1') {
-                    grid[i][j] = '0';
-                    total++;
-                    queue.push(pair<int, int>(i, j));
-                    while (!queue.empty()) {
-                        auto curr = queue.front();
-                        queue.pop();
-                        for (auto e : nei) {
-                            auto x = curr.first + e[0];
-                            auto y = curr.second + e[1];
-
-                            if (x < 0 || x >= m || y < 0 || y >= n || grid[x][y] != '1') continue;
-                            grid[x][y] = '0';
-                            queue.push(pair<int, int>(x, y));
-                        }
+        for (auto i{0uz}; i < m; ++i) {
+            for (auto j{0uz}; j < n; ++j) {
+                if (grid[i][j] != '1') continue;
+                q.push({i, j});
+                while (!q.empty()) {
+                    auto [x, y] = q.front();
+                    q.pop();
+                    grid[x][y] = '2';
+                    for (auto d : directions) {
+                        auto x1 = x + d[0];
+                        auto y1 = y + d[1];
+                        if (x1 < 0 || x1 >= m || y1 < 0 || y1 >= n || grid[x1][y1] != '1') continue;
+                        grid[x1][y1] = '2';
+                        q.push({x1, y1}); 
                     }
                 }
+
+                ++islands;
             }
         }
 
-
-        return total;
+        return islands;        
     }
 };
