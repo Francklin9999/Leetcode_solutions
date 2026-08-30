@@ -23,6 +23,7 @@ public:
             end = end->next;
         }
 
+        auto old = start->next;
         start->next = list2;
 
         ListNode* last{list2};
@@ -30,6 +31,13 @@ public:
 
         last->next = end->next;
 
+        while (old != end) {
+            auto tmp = old;
+            old = old->next;
+            delete tmp;
+        }
+
+        delete old;
         return list1;
     }
 };
