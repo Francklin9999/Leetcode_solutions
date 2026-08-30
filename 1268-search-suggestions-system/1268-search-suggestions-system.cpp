@@ -24,7 +24,7 @@ void insert(const string& s) {
 void find(vector<string>& res, const string& s, size_t idx, string& str, TrieNode* head) {
     if (res.size() == 3) return;
 
-    if (idx != -1 && idx < s.size()) {
+    if (idx < s.size()) {
         auto it = head->trie.find(s[idx]);
         if (it == head->trie.end()) return;
         str.push_back(s[idx]);
@@ -39,7 +39,7 @@ void find(vector<string>& res, const string& s, size_t idx, string& str, TrieNod
 
     for (auto& [key, value] : head->trie) {
         str.push_back(key);
-        find(res, s, -1, str, value);
+        find(res, s, idx, str, value);
         str.pop_back();
         if (res.size() == 3) return;
     }
