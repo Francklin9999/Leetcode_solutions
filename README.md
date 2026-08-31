@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0377-combination-sum-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0377-combination-sum-iv/) | Medium |
+| [0403-frog-jump](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0474-ones-and-zeroes/) | Medium |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0377-combination-sum-iv/) | Medium |
 | [0392-is-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0403-frog-jump](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0474-ones-and-zeroes/) | Medium |
