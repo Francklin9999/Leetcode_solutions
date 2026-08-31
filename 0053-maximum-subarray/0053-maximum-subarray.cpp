@@ -1,19 +1,16 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int maxSub = INT_MIN;
-        double localSum = INT_MIN;
+        int res{nums[0]}, curr{}, l{};
 
-        for (int num : nums) {
-            if (localSum < 0) {
-                localSum = num;
-            } else {
-                localSum += num;
-            }
+        for (auto r{0uz}; r < nums.size(); ++r) {
+            curr += nums[r];
+            
+            res = std::max(res, curr);
 
-            maxSub = std::max(maxSub, static_cast<int>(localSum));
+            if (curr < 0) curr = 0;
         }
 
-        return maxSub;
+        return res;
     }
 };
