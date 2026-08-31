@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2939-maximum-xor-product](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2939-maximum-xor-product/) | Medium |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -465,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
+| [2939-maximum-xor-product](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2939-maximum-xor-product/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
@@ -609,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1927-sum-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1927-sum-game/) | Medium |
+| [2939-maximum-xor-product](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2939-maximum-xor-product/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
