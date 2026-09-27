@@ -1,46 +1,42 @@
 class Solution {
+constexpr static std::array<std::array<int, 2>, 4> nei = {{
+    {{0, 1}}, 
+    {{1, 0}}, 
+    {{0, -1}}, 
+    {{-1, 0}}
+}};
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        size_t m{grid.size()};
-        size_t n{grid[0].size()};
-        int total{};
-        bool flag{false};
-        queue<pair<int, int>> queue;
-        vector<vector<int>> nei{{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
+        std::queue<pair<int, int>> queue;
 
-        for (auto i = 0uz; i < m; ++i) {
-            for (auto j = 0uz; j < n; ++j) {
-                if (grid[i][j] == 2) queue.emplace(i, j);
+        for (auto i{0uz}; i < grid.size(); ++i) {
+            for (auto j{0uz}; j < grid[0].size(); ++j) {
+                if (grid[i][j] != 2) continue;
+                queue.emplace(i, j);
             }
         }
 
         while (!queue.empty()) {
-            auto sz = queue.size();
-            flag = false;
-            for (auto i = 0; i < sz; i++) {
-                auto curr = queue.front();
-                queue.pop();
+            auto top = queue.front();
+            queue.pop();
+            for (auto [k, z] : nei) {
+                auto x = k + top.first;
+                auto y = z + top.second;
 
-                for (auto e : nei) {
-                    auto x = curr.first + e[0];
-                    auto y = curr.second + e[1];
-
-                    if (x < 0 || x >= m || y < 0 || y >= n || grid[x][y] != 1) continue;
-                    grid[x][y] = 2;
-                    queue.emplace(x, y);
-                    flag = true;
-                }
-            }
-            if (flag)
-                total++;
-        }
-
-        for (auto i = 0uz; i < m; ++i) {
-            for (auto j = 0uz; j < n; ++j) {
-                if (grid[i][j] == 1) return -1;       
+                if (x < 0 || y < 0 || x >= grid.size() || y >= grid[0].size() || grid[x][y] != 1) continue;
+                grid[x][y] = grid[top.first][top.second] + 1;
+                queue.emplace(x, y);
             }
         }
 
-        return total;
+        int res{};
+        for (auto i{0uz}; i < grid.size(); ++i) {
+            for (auto j{0uz}; j < grid[0].size(); ++j) {
+                if (grid[i][j] == 1) return -1;
+                res = std::max(res, grid[i][j]);
+            }
+        }
+
+        return res == 0 ? 0 : res - 2;
     }
 };
