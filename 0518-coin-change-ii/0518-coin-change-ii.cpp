@@ -1,15 +1,15 @@
 class Solution {
 public:
     int change(int amount, vector<int>& coins) {
-        vector<uint> cache(amount + 1);
-        cache[0] = 1;
+        vector<uint> dp(amount + 1, 0);
+        dp[0] = 1;
 
-        for (int coin : coins)  {
-            for (int i = coin; i <= amount; ++i) {
-                cache[i] += cache[i - coin];
+        for (int coin : coins) {
+            for (auto i{coin}; i < dp.size(); ++i) {
+                dp[i] += dp[i - coin];
             }
         }
 
-        return cache[amount];
+        return dp[amount];
     }
 };
