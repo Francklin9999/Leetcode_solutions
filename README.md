@@ -1111,4 +1111,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
