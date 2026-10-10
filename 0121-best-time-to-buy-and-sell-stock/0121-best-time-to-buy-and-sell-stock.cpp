@@ -1,13 +1,13 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int min{prices[0]}, max{0};
+        int best{}, buy{INT_MAX};
 
-        for (auto i{1uz}; i < prices.size(); ++i) {
-            max = std::max(prices[i] - min, max);
-            min = std::min(min, prices[i]);
+        for (auto i{0uz}; i < prices.size(); ++i) {
+            buy = std::min(buy, prices[i]);
+            best = std::max(best, prices[i] - buy);
         }
 
-        return max;
+        return best;
     }
 };
