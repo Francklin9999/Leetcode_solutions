@@ -1,32 +1,36 @@
 class Solution {
 public:
     vector<vector<int>> generateMatrix(int n) {
+        int l{}, r = n - 1;
+        int top{}, bottom = n - 1;
+        int curr{1};
+
         vector<vector<int>> res(n, vector<int>(n));
 
-        int left{}, right{n - 1}, top{}, bottom{n - 1}, num{1};
-
-        while (left <= right && top <= bottom) {
-            for (int i = left; i <= right; ++i) {
-                res[top][i] = num++;
+        while (l <= r && top <= bottom) {
+            for (int i{l}; i <= r; ++i) {
+                res[top][i] = curr++; 
             }
             ++top;
 
-            for (int i = top; i <= bottom; ++i) {
-                res[i][right] = num++;
+            for (int i{top}; i <= bottom; ++i) {
+                res[i][r] = curr++;
             }
-            --right;
+            --r;
 
-            if (left > right || top > bottom) break;
-
-            for (int i = right; i >= left; --i) {
-                res[bottom][i] = num++;
+            if (l <= r) {
+                for (int i{r}; i >= l; --i) {
+                    res[bottom][i] = curr++;
+                }
+                --bottom;
             }
-            --bottom;
 
-            for (int i = bottom; i >= top; --i) {
-                res[i][left] = num++;
+            if (top <= bottom) {
+                for (int i{bottom}; i >= top; --i) {
+                    res[i][l] = curr++;
+                }
+                ++l;
             }
-            ++left;
         }
 
         return res;
