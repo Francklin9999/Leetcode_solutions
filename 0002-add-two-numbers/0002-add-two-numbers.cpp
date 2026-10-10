@@ -9,37 +9,45 @@
  * };
  */
 class Solution {
-public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* dummy = new ListNode();
-        auto curr = dummy;
-        int carry{};
-
-        while (l1 || l2 || carry) {
-            ListNode* next = new ListNode();
-            curr->next = next;
-            curr = next;
-            int tmp{};
-
-            if (l1) {
-                tmp += l1->val;
-                l1 = l1->next;
-            }
-
-            if (l2) {
-                tmp += l2->val;
-                l2 = l2->next;
-            }
-
-            if (carry) {
-                tmp += carry;
-            }
-
-
-            carry = tmp / 10;
-            curr->val = tmp % 10;
+private:
+    ListNode* reverse(ListNode* head) {
+        ListNode* prev{nullptr};
+        ListNode* next{head};
+        while (head) {
+            next = head->next;
+            head->next = prev;
+            prev = head;
+            head = next;
         }
 
-        return dummy->next;
+        return prev;
+    }
+public:
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        auto first = l1;
+        auto second = l2;
+        ListNode* head = nullptr;
+
+        int remainder{0};
+        int curr{0};
+        while (first || second || remainder) {
+            curr = remainder;
+
+            if (first) {
+                curr += first->val;
+                first = first->next;
+            }
+
+            if (second) {
+                curr += second->val;
+                second = second->next;
+            }
+
+            remainder = curr / 10;
+
+            head = new ListNode(curr % 10, head);
+        }
+
+        return reverse(head);
     }
 };
