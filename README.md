@@ -625,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1927-sum-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1927-sum-game/) | Medium |
+| [2235-add-two-integers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2939-maximum-xor-product](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2939-maximum-xor-product/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
