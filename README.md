@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -753,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0169-majority-element/) | Easy |
@@ -920,6 +922,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -1121,4 +1124,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
