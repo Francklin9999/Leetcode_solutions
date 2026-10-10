@@ -1,23 +1,18 @@
 class Solution {
 public:
     int reverse(int x) {
-        std::string num = std::to_string(x);
-        std::size_t l{};
-        std::size_t r{num.size() - 1};
+        if (x == INT_MIN) return 0;
+        bool is_neg{x < 0};
+        int cp = std::abs(x);
+        int n{};
 
-        if (num.at(l) == '-') l++;
-
-        while (l < r) {
-            swap(num.at(l), num.at(r));
-            l++;
-            r--;
+        while (cp > 0) {
+            if (n > std::numeric_limits<int>::max() / 10) return 0;
+            n *= 10;
+            n += cp % 10;
+            cp /= 10;
         }
 
-        try {
-            return std::stoi(num);
-        } catch (const std::out_of_range& r) {
-            return 0;
-        }
-
+        return is_neg ? n * - 1: n;
     }
 };
