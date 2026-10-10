@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0057-insert-interval/) | Medium |
@@ -636,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -707,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
