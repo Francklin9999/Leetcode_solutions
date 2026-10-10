@@ -1,17 +1,16 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if (x < 0) return false;
-
-        int cp = x;
-        long m{};
+        int cp{x};
+        int cmp{};
 
         while (cp > 0) {
-            m *= 10;
-            m += cp % 10;
+            if (cmp > std::numeric_limits<int>::max() / 10) return false;
+            cmp *= 10;
+            cmp += cp % 10;
             cp /= 10;
         }
 
-        return m == x;
+        return cmp == x;
     }
 };
