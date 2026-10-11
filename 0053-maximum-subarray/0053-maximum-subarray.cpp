@@ -1,16 +1,16 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int res{nums[0]}, curr{}, l{};
+        int curr{nums[0]}, sub{nums[0]};
 
-        for (auto r{0uz}; r < nums.size(); ++r) {
-            curr += nums[r];
-            
-            res = std::max(res, curr);
-
+        for (auto i{1uz}; i < nums.size(); ++i) {
             if (curr < 0) curr = 0;
+
+            curr += nums[i];
+
+            sub = std::max(sub, curr);
         }
 
-        return res;
+        return sub;
     }
 };
