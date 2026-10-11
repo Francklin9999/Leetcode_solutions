@@ -12,21 +12,28 @@
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> res;
-        stack<TreeNode*> stack;
+        if (root == nullptr) return {};
 
-        while (root != nullptr || !stack.empty()) {
-            while (root != nullptr) {
-                stack.push(root);
-                root = root->left;
-            }
+        std::vector<int> order;
+        std::stack<pair<TreeNode*, bool>> stack;
+        stack.emplace(root, false);
 
-            root = stack.top();
+        while (!stack.empty()) {
+            auto top = stack.top();
             stack.pop();
-            res.push_back(root->val);
-            root = root->right;
+            
+            if (!top.second) {
+                top.second = true;
+                if (top.first->right)
+                    stack.emplace(top.first->right, false);
+                stack.emplace(top);
+                if (top.first->left)
+                    stack.emplace(top.first->left, false);
+            } else {
+                order.push_back(top.first->val);
+            }
         }
 
-        return res;
+        return order;
     }
 };
