@@ -10,17 +10,17 @@
  * };
  */
 class Solution {
-void helper(TreeNode* root, vector<int>& res) {
-    if (!root) return;
+void dfs(vector<int>& order, TreeNode* root) {
+    if (root == nullptr) return;
 
-    helper(root->left, res);
-    helper(root->right, res);
-    res.push_back(root->val);
+    dfs(order, root->left);
+    dfs(order, root->right);
+    order.push_back(root->val);
 }
 public:
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> res;
-        helper(root, res);
-        return res;
+        vector<int> order;
+        dfs(order, root);
+        return order;
     }
 };
