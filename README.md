@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
@@ -803,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -896,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
