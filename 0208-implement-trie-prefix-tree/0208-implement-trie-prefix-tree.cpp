@@ -1,47 +1,45 @@
-class TrieNode {
-public:
-    unordered_map<char, TrieNode*> child;
-    bool end_of_word{false};
+class Trie {
+struct Node {
+    char c;
+    unordered_map<char, Node*> trie;
+    bool end{false};
 };
 
-class Trie {
-private:
-    TrieNode* root;
+Node* head;
 public:
-    Trie() {
-        root = new TrieNode();
+    Trie() : head(new Node('\0')) {
+        
     }
     
     void insert(string word) {
-        auto curr = root;
-        for (char c : word) {
-            if (curr->child.find(c) != curr->child.end()) {
-                curr = (curr->child).at(c);
-            } else {
-                curr->child[c] = new TrieNode();
-                curr = (curr->child).at(c);
+        auto curr = head;
+        for (auto c : word) {
+            auto it = curr->trie.find(c);
+            if (it == curr->trie.end()) {
+                curr->trie[c] = new Node(c);
             }
+            curr = curr->trie[c];
         }
-        curr->end_of_word = true;
+        curr->end = true;
     }
     
     bool search(string word) {
-        auto curr = root;
-        for (char c : word) {
-            if (curr->child.find(c) != curr->child.end()) {
-                curr = curr->child[c];
-            } else return false;
+        auto curr = head;
+        for (auto c : word) {
+            auto it = curr->trie.find(c);
+            if (it == curr->trie.end()) return false; 
+            curr = it->second;
         }
 
-        return curr->end_of_word;
+        return curr->end;
     }
     
     bool startsWith(string prefix) {
-        auto curr = root;
-        for (char c : prefix) {
-            if (curr->child.find(c) != curr->child.end()) {
-                curr = curr->child[c];
-            } else return false;
+        auto curr = head;
+        for (auto c : prefix) {
+            auto it = curr->trie.find(c);
+            if (it == curr->trie.end()) return false; 
+            curr = it->second;
         }
 
         return true;
