@@ -7,7 +7,7 @@ bool dfs(std::unordered_map<int, vector<int>>& courses,
             if (seen.contains(course)) return true;
 
             path.insert(course);
-            for (auto pre : courses[course]) {
+            for (auto& pre : courses[course]) {
                 if (!dfs(courses, seen, path, pre)) return false;
             }
             path.erase(course);
@@ -19,7 +19,7 @@ public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         std::unordered_map<int, vector<int>> courses;
 
-        for (auto pre : prerequisites) {
+        for (auto& pre : prerequisites) {
             courses[pre[0]].push_back(pre[1]);
         }
 
