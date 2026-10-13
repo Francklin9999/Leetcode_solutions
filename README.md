@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1375-number-of-times-binary-string-is-prefix-aligned/) | Medium |
 | [1406-stone-game-iii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1701-average-waiting-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1701-average-waiting-time/) | Medium |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1770-maximum-score-from-performing-multiplication-operations/) | Hard |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1268-search-suggestions-system](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1268-search-suggestions-system/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Interactive
@@ -1008,11 +1010,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1462-course-schedule-iv/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1181,4 +1185,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 <!---LeetCode Topics End-->
