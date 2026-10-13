@@ -1,30 +1,16 @@
 class Solution {
 public:
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
-        sort(intervals.begin(), intervals.end(), [](const vector<int>& vectorA, const vector<int>& vectorB) {
-            if (vectorA[0] == vectorB[0]) {
-                return vectorA[1] < vectorB[1];
+        sort(intervals.begin(), intervals.end());
+        int number_to_erase{0};
+
+        for (auto i{1uz}; i < intervals.size(); ++i) {
+            if (intervals[i].front() < intervals[i - 1].back()) {
+                ++number_to_erase;
+                intervals[i].back() = std::min(intervals[i].back(), intervals[i - 1].back());
             }
-
-            return vectorA[0] < vectorB[0];
-        });
-
-        int second{intervals[0][1]};
-        int count{};
-
-        for (auto i = 1uz; i < intervals.size(); ++i) {
-            if (second > intervals[i][0]) {
-                ++count;
-                if (second > intervals[i][1]) {
-                    second = intervals[i][1];
-                }
-                continue;
-            }
-
-            second = intervals[i][1];
         }
 
-
-        return count;
+        return number_to_erase;
     }
 };
