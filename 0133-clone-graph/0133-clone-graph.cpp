@@ -20,28 +20,19 @@ public:
 */
 
 class Solution {
+private:
+    std::unordered_map<Node*, Node*> clone;
 public:
     Node* cloneGraph(Node* node) {
         if (node == nullptr) return nullptr;
-        unordered_map<Node*, Node*> cloneMap;
-        queue<Node*> queue;
-        queue.push(node);
-        cloneMap[node] = new Node(node->val);
+        if (clone.find(node) != clone.end()) return clone[node];
 
-        while (!queue.empty()) {
-            auto curr = queue.front();
-            auto newNode = cloneMap[curr];
-            for (auto nei : curr->neighbors) {
-                auto it = cloneMap.find(nei);
-                if (it == cloneMap.end()) {
-                    cloneMap[nei] = new Node(nei->val);
-                    queue.push(nei);
-                }
-                newNode->neighbors.push_back(cloneMap[nei]);
-            }
-            queue.pop();
-        }
+        clone[node] = new Node(node->val);
 
-        return cloneMap[node];
+        for (auto nei : node->neighbors) {
+            clone[node]->neighbors.push_back(cloneGraph(nei));
+        }    
+
+        return clone[node];
     }
 };
