@@ -1,41 +1,41 @@
 class Solution {
+private:
+    bool dfs(std::unordered_map<int, vector<int>>& courses,
+            std::unordered_set<int>& visited,
+            std::unordered_set<int>& path,
+            vector<int>& order,
+            int course) {
+                if (path.contains(course)) return false;
+                if (visited.contains(course)) return true;
+
+                path.insert(course);
+
+                for (auto nei : courses[course]) {
+                    if (!dfs(courses, visited, path, order, nei)) return false;
+                }
+
+                path.erase(course);
+                order.push_back(course);
+                visited.insert(course);
+                return true;
+            }
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        unordered_map<int, vector<int>> map;
+        std::unordered_map<int, vector<int>> courses;
 
-        for (int i{}; i < numCourses; ++i) {
-            map.insert({i, {}});
+        for (const auto& pre : prerequisites) {
+            courses[pre[0]].push_back(pre[1]);
         }
 
-        for (auto i{0uz}; i < prerequisites.size(); ++i) {
-            map[prerequisites[i][0]].push_back(prerequisites[i][1]);
+        std::unordered_set<int> visited;
+        std::unordered_set<int> path;
+        vector<int> order;
+        order.reserve(numCourses);
+
+        for (std::size_t i{0}; i < numCourses; ++i) {
+            if (!dfs(courses, visited, path, order, i)) return {};
         }
 
-        unordered_set<int> visited;
-        unordered_set<int> path;
-        vector<int> out;
-
-        for (auto [pre, _] : map) {
-            if(!dfs(map, visited, path, out, pre)) return {};
-        }
-
-        return out;
-    }
-
-    bool dfs(unordered_map<int, vector<int>>& map, unordered_set<int>& visited, unordered_set<int>& path, vector<int>& out, int curr) {
-        if (path.count(curr)) return false;
-        if (visited.count(curr)) return true;
-
-        path.insert(curr);
-
-        for (auto i{0uz}; i < map[curr].size(); ++i) {
-            if (!dfs(map, visited, path, out, map[curr][i])) return false;
-        }
-
-        path.erase(curr);
-        out.push_back(curr);
-        visited.insert(curr);
-
-        return true;
+        return order;
     }
 };
