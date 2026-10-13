@@ -1,34 +1,42 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        auto cmp = [] (pair<int, int>& a, pair<int, int>& b) {
-            return a.second > b.second;
-        };
-        priority_queue<pair<int, int>, vector<pair<int, int>>, decltype(cmp)> minHeap;
+        std::unordered_map<int, vector<vector<int>>> edges;
 
-        unordered_map<int, vector<pair<int, int>>> map;
-
-        for (auto i = 0uz; i < times.size(); ++i) {
-            map[times[i][0]].emplace_back(times[i][1], times[i][2]);
+        for (const auto& time : times) {
+            edges[time[0]].emplace_back(time);
         }
 
-        set<int> seen;
-        int total{};
+        std::unordered_set<int> visited;
 
-        minHeap.emplace(k, 0);
+        auto cmp = [](const vector<int>& a, const vector<int>& b) {
+            return a[2] > b[2];
+        };
 
-        while (!minHeap.empty()) {
-            auto curr = minHeap.top();
-            minHeap.pop();
-            if (seen.find(curr.first) != seen.end()) continue;
-            seen.insert(curr.first);
-            total = std::max(total, curr.second);
-            for (auto& e : map[curr.first]) {
-                if (seen.find(e.first) != seen.end()) continue;
-                minHeap.emplace(e.first, e.second + curr.second);
+        std::priority_queue<vector<int>, vector<vector<int>>, decltype(cmp)> network;
+        int time{};
+
+        for (const auto& value : edges[k]) {
+            network.emplace(value);
+        }
+
+        visited.insert(k);
+        while (visited.size() < n && !network.empty()) {
+            auto top = network.top();
+            network.pop();
+
+            if (visited.find(top[1]) == visited.end()) {
+                visited.insert(top[1]);
+                time = std::max(time, top[2]);
+
+                for (auto value : edges[top[1]]) {
+                    value[2] += top[2];
+                    network.emplace(value);
+                }
             }
         }
 
-        return seen.size() == n ? total : -1;
+        return visited.size() == n ? time : -1;
+
     }
 };
