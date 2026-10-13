@@ -1,22 +1,20 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        vector<int> before(nums.size(), 1);
-        vector<int> after(nums.size(), 1);
-        vector<int> res(nums.size());
+        vector<int> sol(nums.size(), 1);
 
-        for (auto i = 1uz; i < nums.size(); ++i) {
-            before[i] = nums[i - 1] * before[i - 1];
+        int running_prod{1};
+        for (auto i{0uz}; i < sol.size(); ++i) {
+            sol[i] *= running_prod;
+            running_prod *= nums[i];
         }
 
-        for (auto i = nums.size() - 1; i-- > 0;) {
-            after[i] = nums[i + 1] * after[i + 1];
+        running_prod = 1;
+        for (auto i{sol.size()}; i-- > 0; ) {
+            sol[i] *= running_prod;
+            running_prod *= nums[i];
         }
 
-        for (auto i = 0uz; i < res.size(); ++i) {
-            res[i] = before[i] * after[i];
-        }
-
-        return res;
+        return sol;
     }
 };
