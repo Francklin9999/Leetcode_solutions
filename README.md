@@ -724,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0394-decode-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
@@ -818,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0394-decode-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0394-decode-string/) | Medium |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -856,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0394-decode-string/) | Medium |
 | [0409-longest-palindrome](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
