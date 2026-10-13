@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0322-coin-change/) | Medium |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0622-design-circular-queue](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -408,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -1150,10 +1153,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -1168,4 +1173,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0912-sort-an-array/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
