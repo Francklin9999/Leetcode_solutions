@@ -1,7 +1,6 @@
 class Trie {
 struct Node {
-    Node(char ch) : c(ch), letters(26, nullptr) {}
-    char c;
+    Node() : letters(26, nullptr) {}
     vector<Node*> letters;
     bool is_end_of_word{false};
 };
@@ -9,14 +8,14 @@ struct Node {
 Node* trie;
 public:
     Trie() {
-        trie = new Node('\0');
+        trie = new Node();
     }
     
     void insert(string word) {
         auto curr = trie;
         for (std::size_t i{0}; i < word.size(); ++i) {
             if (!curr->letters[word[i] - 'a']) {
-                curr->letters[word[i] - 'a'] = new Node(word[i]);
+                curr->letters[word[i] - 'a'] = new Node();
             }
             curr = curr->letters[word[i] - 'a'];
         }
