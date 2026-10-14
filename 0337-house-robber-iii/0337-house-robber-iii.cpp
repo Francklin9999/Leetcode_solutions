@@ -10,21 +10,21 @@
  * };
  */
 class Solution {
-pair<int, int> helper(TreeNode* root) {
-    if (root == nullptr) return {0, 0};
+private:
+    pair<int, int> dfs(TreeNode* root) {
+        if (root == nullptr) return make_pair(0, 0);
 
-    auto left = helper(root->left);
-    auto right = helper(root->right);
+        auto left = dfs(root->left);
+        auto right = dfs(root->right);
 
-    auto take = root->val + left.second + right.second;
-    auto leave = std::max(left.first, left.second) + std::max(right.first, right.second);
+        auto take = root->val + left.second + right.second;
+        auto leave = left.first + right.first;
 
-    return {take, leave};
-}
+        return make_pair(std::max(take, leave), leave);
+    }
 public:
     int rob(TreeNode* root) {
-        auto run = helper(root);
-
-        return std::max(run.first, run.second);
+        auto sum = dfs(root);
+        return std::max(sum.first, sum.second);
     }
 };
