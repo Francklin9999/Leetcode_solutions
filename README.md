@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1462-course-schedule-iv/) | Medium |
@@ -940,6 +942,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
