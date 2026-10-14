@@ -10,20 +10,21 @@
  * };
  */
 class Solution {
-int diameter{};
-int dfs(TreeNode* head) {
-    if (head == nullptr) return 0;
+private:
+    int dfs(TreeNode* root, int& sum) {
+        if (root == nullptr) return 0;
 
-    auto left = dfs(head->left);
-    auto right = dfs(head->right);
+        auto left = dfs(root->left, sum);
+        auto right = dfs(root->right, sum);
 
-    diameter = std::max(diameter, left + right);
+        sum = std::max(sum, left + right);
 
-    return std::max(left, right) + 1;
-}
+        return std::max(left, right) + 1;
+    }
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-        dfs(root);
-        return diameter;
+        int sum{};
+        dfs(root, sum);
+        return sum;
     }
 };
