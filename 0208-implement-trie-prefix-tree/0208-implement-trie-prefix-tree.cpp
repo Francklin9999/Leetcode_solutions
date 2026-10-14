@@ -1,7 +1,6 @@
 class Trie {
 struct Node {
-    Node() : letters(26, nullptr) {}
-    vector<Node*> letters;
+    std::array<Node*, 26> letters{};
     bool is_end_of_word{false};
 };
 
