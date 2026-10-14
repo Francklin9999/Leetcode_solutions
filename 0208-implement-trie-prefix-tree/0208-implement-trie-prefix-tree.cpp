@@ -1,45 +1,44 @@
 class Trie {
 struct Node {
+    Node(char ch) : c(ch), letters(26, nullptr) {}
     char c;
-    unordered_map<char, Node*> trie;
-    bool end{false};
+    vector<Node*> letters;
+    bool is_end_of_word{false};
 };
 
-Node* head;
+Node* trie;
 public:
-    Trie() : head(new Node('\0')) {
-        
+    Trie() {
+        trie = new Node('\0');
     }
     
     void insert(string word) {
-        auto curr = head;
-        for (auto c : word) {
-            auto it = curr->trie.find(c);
-            if (it == curr->trie.end()) {
-                curr->trie[c] = new Node(c);
+        auto curr = trie;
+        for (std::size_t i{0}; i < word.size(); ++i) {
+            if (!curr->letters[word[i] - 'a']) {
+                curr->letters[word[i] - 'a'] = new Node(word[i]);
             }
-            curr = curr->trie[c];
+            curr = curr->letters[word[i] - 'a'];
         }
-        curr->end = true;
+
+        curr->is_end_of_word = true;
     }
     
     bool search(string word) {
-        auto curr = head;
-        for (auto c : word) {
-            auto it = curr->trie.find(c);
-            if (it == curr->trie.end()) return false; 
-            curr = it->second;
+        auto curr = trie;
+        for (std::size_t i{0}; i < word.size(); ++i) {
+            if (!curr->letters[word[i] - 'a']) return false;
+            curr = curr->letters[word[i] - 'a'];
         }
 
-        return curr->end;
+        return curr->is_end_of_word;
     }
     
     bool startsWith(string prefix) {
-        auto curr = head;
-        for (auto c : prefix) {
-            auto it = curr->trie.find(c);
-            if (it == curr->trie.end()) return false; 
-            curr = it->second;
+        auto curr = trie;
+        for (std::size_t i{0}; i < prefix.size(); ++i) {
+            if (!curr->letters[prefix[i] - 'a']) return false;
+            curr = curr->letters[prefix[i] - 'a'];
         }
 
         return true;
