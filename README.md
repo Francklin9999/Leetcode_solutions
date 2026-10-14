@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -921,6 +923,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
@@ -1186,4 +1189,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
