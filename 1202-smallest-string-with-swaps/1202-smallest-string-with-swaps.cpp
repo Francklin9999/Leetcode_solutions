@@ -20,12 +20,12 @@ private:
         if (size[b] > size[a]) std::swap(a, b);
 
         parent[b] = a;
-        size[a] += b;
+        size[a] += size[b];
     }
 public:
     string smallestStringWithSwaps(string s, vector<vector<int>>& pairs) {
         parent.resize(s.size());
-        size.resize(s.size(), 0);
+        size.resize(s.size(), 1);
 
         std::iota(parent.begin(), parent.end(), 0);
 
