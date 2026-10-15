@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0721-accounts-merge](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0724-find-pivot-index](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0684-redundant-connection](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -561,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0706-design-hashmap/) | Easy |
+| [0721-accounts-merge](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0740-delete-and-earn](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0763-partition-labels](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0763-partition-labels/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0771-jewels-and-stones/) | Easy |
@@ -805,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0721-accounts-merge](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0846-hand-of-straights](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0853-car-fleet/) | Medium |
@@ -883,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0721-accounts-merge](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0763-partition-labels](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0763-partition-labels/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0796-rotate-string/) | Easy |
@@ -1008,6 +1014,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0684-redundant-connection](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0721-accounts-merge/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
