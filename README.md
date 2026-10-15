@@ -1143,6 +1143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0687-longest-univalue-path/) | Medium |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
