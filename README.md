@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -662,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -812,6 +814,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0721-accounts-merge](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0721-accounts-merge/) | Medium |
