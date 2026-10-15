@@ -10,7 +10,7 @@
  * };
  */
 class Solution {
-private:
+private:    
     pair<int, int> dfs(TreeNode* root) {
         if (root == nullptr) return make_pair(0, 0);
 
@@ -24,7 +24,7 @@ private:
     }
 public:
     int rob(TreeNode* root) {
-        auto sum = dfs(root);
-        return std::max(sum.first, sum.second);
+        auto res = dfs(root);
+        return std::max(res.first, res.second);
     }
 };
