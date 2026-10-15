@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0740-delete-and-earn](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0846-hand-of-straights](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0853-car-fleet/) | Medium |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -387,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0938-range-sum-of-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -606,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0912-sort-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -696,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0861-score-after-flipping-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -1031,6 +1037,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0721-accounts-merge/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
@@ -1170,6 +1177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0877-stone-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -1221,6 +1229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
