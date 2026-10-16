@@ -1,17 +1,13 @@
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
-        int currJump = 0;
+        int max{};
 
-        for (int i = 0; i < nums.size(); i++) {
-            currJump = std::max(currJump, nums[i]);
-            
-            if (currJump + i >= nums.size() - 1) return true;
-            if (currJump <= 0) return false;
-
-            currJump--;
+        for (std::size_t i{0}; i < nums.size() - 1; ++i) {
+            max = std::max(max, nums[i] + static_cast<int>(i));
+            if (max <= i) return false;
         }
 
-        return false;
+        return true;
     }
 };
