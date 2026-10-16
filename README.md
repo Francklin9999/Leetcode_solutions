@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1375-number-of-times-binary-string-is-prefix-aligned/) | Medium |
 | [1406-stone-game-iii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -621,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1268-search-suggestions-system](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1268-search-suggestions-system/) | Medium |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -710,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1861-rotating-the-box](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -1055,6 +1059,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0684-redundant-connection](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1462-course-schedule-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -1062,6 +1067,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -1237,6 +1243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -1246,4 +1253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## 0-1 BFS
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 <!---LeetCode Topics End-->
