@@ -43,6 +43,7 @@ public:
         }
 
         string s;
+        s.reserve(baseStr.size());
 
         for (std::size_t i{0}; i < baseStr.size(); ++i) {
             char c = smallest[find(baseStr[i] - 'a')];
