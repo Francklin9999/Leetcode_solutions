@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2373-largest-local-values-in-a-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2451-odd-string-difference](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2451-odd-string-difference/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1462-course-schedule-iv/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -717,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1861-rotating-the-box](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Memoization
@@ -1053,6 +1057,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
