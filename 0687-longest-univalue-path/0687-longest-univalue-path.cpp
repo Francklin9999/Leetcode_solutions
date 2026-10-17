@@ -11,31 +11,25 @@
  */
 class Solution {
 private:
-    int dfs(TreeNode* root, int& sum) {
-        if (root == nullptr) return 0;
+    int dfs(TreeNode* root, int& mx) {
+        auto left = root->left ? dfs(root->left, mx) : 0;
+        auto right = root->right ? dfs(root->right, mx) : 0;
 
-        auto left = dfs(root->left, sum);
-        auto right = dfs(root->right, sum);
+        auto l = root->left && root->left->val == root->val;
+        auto r = root->right && root->right->val == root->val; 
 
-        bool l = root->left && root->val == root->left->val;
-        bool r = root->right && root->val == root->right->val;
+        left = l ? left + 1 : 0;
+        right = r ? right + 1 : 0;
 
-        int curr{1};
-
-        if (l) curr = std::max(curr, left + 1);
-        if (r) curr = std::max(curr, right + 1);
-
-        int through = 1 + (l ? left : 0) + (r ? right : 0);
-
-        sum = std::max(sum, through);
-
-        return curr;
+        mx = std::max(mx, left + right);
+        
+        return std::max(left, right);
     }
 public:
     int longestUnivaluePath(TreeNode* root) {
         if (root == nullptr) return 0;
-        int sum{std::numeric_limits<int>::min()};
-        dfs(root, sum);
-        return sum - 1;
+        int mx{};
+        dfs(root, mx);
+        return mx;
     }
 };
