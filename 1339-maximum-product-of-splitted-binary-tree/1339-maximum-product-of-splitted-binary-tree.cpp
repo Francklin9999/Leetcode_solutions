@@ -16,28 +16,27 @@ private:
     int sum(TreeNode* root) {
         if (root == nullptr) return 0;
 
-        return root->val + sum(root->left) + sum(root->right);
+        return sum(root->left) + sum(root->right) + root->val;
     }
 
-    int dfs(TreeNode* root, long long s, long long& product) {
+    int dfs(TreeNode* root, int s, long long& mx) {
         if (root == nullptr) return 0;
 
-        auto left = dfs(root->left, s, product);
-        auto right = dfs(root->right, s, product);
+        auto left = dfs(root->left, s, mx);
+        auto right = dfs(root->right, s, mx);
 
-        long long total = left + right + root->val;
+        auto curr = root->val + left + right;
 
-        product = std::max(product, total * (s - total));
+        mx = std::max(mx, static_cast<long long>(curr) * (s - curr));
 
-        return total;
+        return curr;
     }
 public:
     int maxProduct(TreeNode* root) {
-        long long product{};
-        auto s = sum(root);
+        int s = sum(root);
 
-        dfs(root, s, product);
-
-        return product % mod;
+        long long mx{};
+        dfs(root, s, mx);
+        return mx % mod;
     }
 };
