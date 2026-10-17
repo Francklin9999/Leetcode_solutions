@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0934-shortest-bridge](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0934-shortest-bridge](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0934-shortest-bridge/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -602,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0763-partition-labels/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0846-hand-of-straights](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0846-hand-of-straights/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
@@ -998,6 +1002,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -1209,6 +1214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0687-longest-univalue-path](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0687-longest-univalue-path/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Enumeration
@@ -1279,10 +1285,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 ## Lowest Common Ancestor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 ## 0-1 BFS
 | Problem Name | Difficulty |
 | ------- | ------- |
