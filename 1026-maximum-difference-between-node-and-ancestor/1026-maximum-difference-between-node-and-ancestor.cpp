@@ -11,22 +11,21 @@
  */
 class Solution {
 private:
-    pair<int, int> dfs(TreeNode* root, int& diff) {
-        auto left = root->left ? dfs(root->left, diff) : make_pair(root->val, root->val);
-        auto right = root->right ? dfs(root->right, diff) : make_pair(root->val, root->val);
+    std::pair<int, int> dfs(TreeNode* root, int& total) {
+        auto left = root->left ? dfs(root->left, total) : make_pair(root->val, root->val);
+        auto right = root->right ? dfs(root->right, total) : make_pair(root->val, root->val);
 
-        auto min = std::min(left.first, right.first);
-        auto max = std::max(left.second, right.second);
+        total = std::max({total, std::abs(root->val - left.first), std::abs(root->val - left.second)});
+        total = std::max({total, std::abs(root->val - right.first), std::abs(root->val - right.second)});
 
-        diff = std::max({diff, std::abs(root->val - min), std::abs(root->val - max)});
-
-        return {std::min(min, root->val), std::max(max, root->val)};
+        return make_pair(std::min({left.first, right.first, root->val}), std::max({left.second, right.second, root->val}));
     }
 public:
     int maxAncestorDiff(TreeNode* root) {
         if (root == nullptr) return 0;
-        int diff{};
-        dfs(root, diff);
-        return diff;
+        
+        int total{};
+        dfs(root, total);
+        return total;
     }
 };
