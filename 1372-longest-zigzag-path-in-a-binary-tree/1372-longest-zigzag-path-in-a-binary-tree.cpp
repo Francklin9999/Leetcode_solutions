@@ -11,19 +11,21 @@
  */
 class Solution {
 private:
-    pair<int, int> dfs(TreeNode* root, int& path) {
+    std::pair<int, int> dfs(TreeNode* root, int& path) {
         if (root == nullptr) return make_pair(-1, -1);
 
         auto left = dfs(root->left, path);
         auto right = dfs(root->right, path);
 
-        path = std::max({path, left.second + 1, right.first + 1});
+        int mx = std::max(left.first, right.second) + 1;
 
-        return make_pair(left.second + 1, right.first + 1);
+        path = std::max(path, mx);
+
+        return make_pair(right.second + 1, left.first + 1);
     }
 public:
     int longestZigZag(TreeNode* root) {
-        int path{0};
+        int path{};
         dfs(root, path);
         return path;
     }
