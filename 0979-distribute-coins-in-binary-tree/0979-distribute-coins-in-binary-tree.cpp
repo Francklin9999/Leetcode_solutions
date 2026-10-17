@@ -11,22 +11,23 @@
  */
 class Solution {
 private:
-    int dfs(TreeNode* root, int& res) {
+    int dfs(TreeNode* root, int& moves) {
         if (root == nullptr) return 0;
 
-        auto left = dfs(root->left, res);
-        auto right = dfs(root->right, res);
+        auto left = dfs(root->left, moves);
+        auto right = dfs(root->right, moves);
 
-        auto total = root->val + left + right;
+        int curr = root->val + left + right - 1;
 
-        res += std::abs(total - 1);
+        moves += std::abs(curr);
 
-        return total - 1;
+        return curr;
     }
 public:
     int distributeCoins(TreeNode* root) {
-        int res{};
-        dfs(root, res);
-        return res;
+        int moves{};
+
+        dfs(root, moves);
+        return moves;
     }
 };
