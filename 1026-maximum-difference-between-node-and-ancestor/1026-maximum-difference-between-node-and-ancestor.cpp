@@ -15,10 +15,13 @@ private:
         auto left = root->left ? dfs(root->left, total) : make_pair(root->val, root->val);
         auto right = root->right ? dfs(root->right, total) : make_pair(root->val, root->val);
 
-        total = std::max({total, std::abs(root->val - left.first), std::abs(root->val - left.second)});
-        total = std::max({total, std::abs(root->val - right.first), std::abs(root->val - right.second)});
+        int mn = std::min(left.first, right.first);
+        int mx = std::max(left.second, right.second);
 
-        return make_pair(std::min({left.first, right.first, root->val}), std::max({left.second, right.second, root->val}));
+        total = std::max(total, std::abs(root->val - mn));
+        total = std::max(total, std::abs(root->val - mx));
+
+        return make_pair(std::min(mn, root->val), std::max(mx, root->val));
     }
 public:
     int maxAncestorDiff(TreeNode* root) {
