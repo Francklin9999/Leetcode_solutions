@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1140-stone-game-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -618,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [2043-simple-bank-system](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2043-simple-bank-system/) | Medium |
@@ -1015,6 +1019,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
