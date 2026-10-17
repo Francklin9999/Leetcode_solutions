@@ -17,15 +17,8 @@ private:
         auto left = dfs(del, root->left, out);
         auto right = dfs(del, root->right, out);
 
-        if (left) {
-            delete root->left;
-            root->left = nullptr;
-        }
-
-        if (right) {
-            delete root->right;
-            root->right = nullptr;
-        }
+        if (left) root->left = nullptr;
+        if (right) root->right = nullptr;
 
         auto is_root = del.contains(root->val);
 
