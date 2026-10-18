@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2673-make-costs-of-paths-equal-in-a-binary-tree/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1462-course-schedule-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Bucket Sort
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -1031,6 +1034,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2673-make-costs-of-paths-equal-in-a-binary-tree/) | Medium |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 ## Trie
