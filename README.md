@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0606-construct-string-from-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0687-longest-univalue-path/) | Medium |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0606-construct-string-from-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0684-redundant-connection/) | Medium |
@@ -958,6 +960,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0567-permutation-in-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0721-accounts-merge](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0721-accounts-merge/) | Medium |
@@ -1015,6 +1018,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0606-construct-string-from-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0687-longest-univalue-path/) | Medium |
