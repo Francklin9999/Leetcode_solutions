@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2939-maximum-xor-product](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2939-maximum-xor-product/) | Medium |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -436,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
@@ -1043,6 +1047,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
