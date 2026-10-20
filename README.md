@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-shortest-path-with-alternating-colors](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-delete-leaves-with-a-given-value](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1462-course-schedule-iv/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
@@ -634,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [2043-simple-bank-system](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
@@ -1038,6 +1041,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-delete-leaves-with-a-given-value](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -1250,6 +1254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-distribute-coins-in-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
