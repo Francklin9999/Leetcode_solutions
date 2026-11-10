@@ -1,17 +1,16 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        int z{};
-        int n{};
-        int len{static_cast<int>(nums.size())};
+        size_t l{}, r{1};
 
         while (1) {
-            while (z < len && nums[z] != 0) ++z;
-            n = std::max(n, z + 1);
-            while (n < len && nums[n] == 0) ++n;
-
-            if (n >= len || z >= len) break;
-            swap(nums[z], nums[n]);
+            while (l < nums.size() && nums[l] != 0) ++l;
+            r = std::max(l, r);
+            while (r < nums.size() && nums[r] == 0) ++r;
+            if (r == nums.size()) break;
+            std::swap(nums[l], nums[r]);
+            ++l;
+            ++r;
         }
     }
 };
