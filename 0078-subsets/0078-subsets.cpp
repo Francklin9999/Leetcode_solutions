@@ -1,20 +1,22 @@
 class Solution {
-void dfs(vector<int>& nums, vector<vector<int>>& subs, vector<int>& curr, size_t n) {
-    if (n == nums.size()) {
-        subs.push_back(curr);
-        return;
-    }
+private:
+    void dfs(vector<int>& nums, vector<vector<int>>& res, vector<int>& curr, size_t idx) {
+        if (idx >= nums.size()) {
+            res.push_back(curr);
+            return;
+        }
 
-    curr.push_back(nums[n]);
-    dfs(nums, subs, curr, n + 1);
-    curr.pop_back();
-    dfs(nums, subs, curr, n + 1);
-}
+        dfs(nums, res, curr, idx + 1);
+        curr.push_back(nums[idx]);
+        dfs(nums, res, curr, idx + 1);
+        curr.pop_back();
+    }
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> subs;
+        vector<vector<int>> res;
         vector<int> curr;
-        dfs(nums, subs, curr, 0);
-        return subs;
+
+        dfs(nums, res, curr, 0);
+        return res;
     }
 };
