@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2673-make-costs-of-paths-equal-in-a-binary-tree/) | Medium |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
