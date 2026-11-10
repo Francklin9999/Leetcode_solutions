@@ -1,27 +1,19 @@
 class Solution {
-int helper(vector<int>& nums, int l, int r, vector<vector<int>>& dp) {
+int dfs(vector<int>& nums, vector<vector<int>>& cache, int l, int r) {
     if (l > r) return 0;
-    if (dp[l][r] != -1) return dp[l][r];
+    if (cache[l][r] != INT_MAX) return cache[l][r];
 
-    int takeL = nums[l] - helper(
-        nums,
-        l + 1,
-        r,
-        dp
+    cache[l][r] = std::max(
+        nums[l] - dfs(nums, cache, l + 1, r),
+        nums[r] - dfs(nums, cache, l, r - 1)
     );
 
-    int takeR = nums[r] - helper(
-        nums,
-        l,
-        r - 1,
-        dp
-    );
-
-    return dp[l][r] = std::max(takeL, takeR);
+    return cache[l][r];
 }
 public:
     bool predictTheWinner(vector<int>& nums) {
-        vector<vector<int>> dp(nums.size() + 1, vector<int>(nums.size() + 1, -1));
-        return helper(nums, 0, nums.size() - 1, dp) >= 0; 
+        vector<vector<int>> cache(nums.size(), vector<int>(nums.size(), INT_MAX));
+
+        return dfs(nums, cache, 0, nums.size() - 1) >= 0;
     }
 };
