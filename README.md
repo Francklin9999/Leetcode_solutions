@@ -1329,6 +1329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
@@ -1336,6 +1337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Lowest Common Ancestor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
