@@ -4,8 +4,8 @@ public:
         int l{}, r = matrix[0].size() - 1;
         int top{}, bottom = matrix.size() - 1;
         vector<int> res;
-        res.reserve(matrix.size() * matrix[0].size());
-
+        res.reserve((r + 1) * (bottom + 1));
+        
         while (l <= r && top <= bottom) {
             for (int i{l}; i <= r; ++i) {
                 res.push_back(matrix[top][i]);
@@ -24,7 +24,7 @@ public:
                 --bottom;
             }
 
-            if  (l <= r) {
+            if (l <= r) {
                 for (int i{bottom}; i >= top; --i) {
                     res.push_back(matrix[i][l]);
                 }
