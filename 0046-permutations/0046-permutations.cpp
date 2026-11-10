@@ -1,23 +1,24 @@
 class Solution {
-void dfs(vector<int>& nums, vector<vector<int>>& perm, vector<int>& curr, size_t n) {
-    if (n == nums.size()) {
-        perm.push_back(curr);
-        return;
-    }
+private:
+    void dfs(vector<int>& nums, vector<vector<int>>& res, vector<int>& curr, size_t idx) {
+        if (idx >= nums.size()) {
+            res.push_back(curr);
+            return;
+        }
 
-    auto sz = curr.size();
-    for (auto i{0uz}; i <= sz; ++i) {
-        curr.insert(curr.begin() + i, nums[n]);
-        dfs(nums, perm, curr, n + 1);
-        curr.erase(curr.begin() + i);
+        for (auto i{0}; i <= curr.size(); ++i) {
+            curr.insert(curr.begin() + i, nums[idx]);
+            dfs(nums, res, curr, idx + 1);
+            curr.erase(curr.begin() + i);
+        }
     }
-}
 public:
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> perm;
+        vector<vector<int>> res;
         vector<int> curr;
+        curr.reserve(nums.size());
 
-        dfs(nums, perm, curr, 0);
-        return perm;
+        dfs(nums, res, curr, 0);
+        return res;
     }
 };
