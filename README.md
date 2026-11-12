@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3693-climbing-stairs-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3839-number-of-prefix-connected-groups](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3839-number-of-prefix-connected-groups](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -661,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3839-number-of-prefix-connected-groups](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1003,6 +1006,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3110-score-of-a-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3839-number-of-prefix-connected-groups](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
