@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-longest-turbulent-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0994-rotting-oranges](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1035-uncrossed-lines](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1046-last-stone-weight](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2939-maximum-xor-product](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2939-maximum-xor-product/) | Medium |
