@@ -1006,6 +1006,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3110-score-of-a-string](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3839-number-of-prefix-connected-groups](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -1118,6 +1119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
