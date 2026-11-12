@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3151-special-array-i](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3151-special-array-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/3208-alternating-groups-ii/) | Medium |
