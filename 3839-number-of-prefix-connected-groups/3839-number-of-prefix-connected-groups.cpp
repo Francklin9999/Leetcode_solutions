@@ -10,8 +10,8 @@ public:
             prefix[sub]++;
         }
 
-        for (auto [_, val] : prefix) {
-            if (val > 1) ++len;
+        for (auto& it : prefix) {
+            if (it.second > 1) ++len;
         }
 
         return len;
