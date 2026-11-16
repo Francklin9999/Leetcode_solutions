@@ -12,8 +12,8 @@ public:
     vector<vector<int>> getIntervals() {
         vector<vector<int>> res;
 
-        int start, end;
-        start = end = -1;
+        int start;
+        start = -1;
 
         for (auto it = set.begin(); it != set.end(); ++it) {
             if (start == -1) start = *it;
