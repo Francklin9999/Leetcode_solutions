@@ -19,8 +19,7 @@ public:
             if (start == -1) start = *it;
             if (set.count(*it + 1)) continue;
             else {
-                auto tmp = {start, *it};
-                res.push_back(std::move(tmp));
+                res.push_back({start, *it});
                 start = -1;
             }
         }
