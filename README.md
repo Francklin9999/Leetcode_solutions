@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1824-minimum-sideway-jumps](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1861-rotating-the-box](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1914-cyclically-rotating-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -786,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-path-with-maximum-gold](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1861-rotating-the-box](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1861-rotating-the-box/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -853,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Francklin9999/Leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1701-average-waiting-time](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1701-average-waiting-time/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2043-simple-bank-system](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
