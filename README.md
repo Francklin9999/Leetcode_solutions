@@ -1010,6 +1010,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1927-sum-game/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
+| [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2232-minimize-result-by-adding-parentheses-to-expression/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2451-odd-string-difference](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2451-odd-string-difference/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
@@ -1291,6 +1292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Francklin9999/Leetcode_solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2232-minimize-result-by-adding-parentheses-to-expression](https://github.com/Francklin9999/Leetcode_solutions/tree/main/2232-minimize-result-by-adding-parentheses-to-expression/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
