@@ -1,14 +1,14 @@
 class Solution {
 public:
     vector<vector<int>> rotateGrid(vector<vector<int>>& grid, int k) {
-        int top{}, low = grid.size() - 1; // row
-        int l{}, r = grid[0].size() - 1; // col
+        int top{}, low = grid.size() - 1; // rows
+        int l{}, r = grid[0].size() - 1; // cols
 
-        while (l <= r && top <= low) {
-            int perimeter = 2 * (r - l) + (low - top) * 2;
+        while (top <= low && l <= r) {
+            int perimeter = 2 * (low - top) + 2 * (r - l);
             int rotation = k % perimeter;
 
-            for (int i{}; i < rotation; ++i) {
+            for (int i = 0; i < rotation; ++i) {
                 int tmp = grid[top][l];
 
                 for (int j = top + 1; j <= low; ++j) {
@@ -28,10 +28,10 @@ public:
                 }
             }
 
-            ++l;
             ++top;
-            --r;
+            ++l;
             --low;
+            --r;
         }
 
         return grid;
