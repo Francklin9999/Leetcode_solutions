@@ -6,8 +6,8 @@ public:
         int mn{INT_MAX};
         string res{};
 
-        for (int i = 0; i < plus; ++i) {
-            for (int j = plus + 2; j <= expression.size(); ++j) {
+        for (int i{0}; i < plus; ++i) {
+            for (int j{plus + 2}; j <= expression.size(); ++j) {
                 string a = expression.substr(0, i);
                 string b = expression.substr(i, plus - i);
                 string c = expression.substr(plus + 1, j - plus - 1);
@@ -23,7 +23,7 @@ public:
                 if (curr < mn) {
                     mn = curr;
                     res = a + '(' + b + '+' + c + ')' + d;
-                } 
+                }
             }
         }
 
